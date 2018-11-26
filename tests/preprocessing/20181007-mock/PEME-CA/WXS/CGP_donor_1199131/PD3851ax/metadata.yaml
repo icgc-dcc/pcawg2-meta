@@ -1,0 +1,27 @@
+dcc_project_code: PEME-CA
+submitter_donor_id: CGP_donor_1199131
+submitter_specimen_id: CGP_specimen_1142534
+submitter_sample_id: PD3851ax
+dcc_specimen_type: Normal - blood derived
+library_strategy: WGS
+read_groups:
+- read_group_id: WTSI-9399_7
+  sequencing_center: WTSI
+  sequencing_platform: ILLUMINA
+  platform_model: Illumina HiSeq 2000
+  platform_unit: WTSI:9399_7
+  library_name: WGS:WTSI:28085
+  insert_size: 453  # required for paired end
+  sequencing_date: '2013-03-18T00:00:00+00:00'
+  files:  # read 1 first, then read 2; one file if not paired end
+  - name: ab2f5808f8ee03c1047267fc68090687.D25GFACXX_4_6nf_1.fastq.gz
+    size: 4668838182
+    md5sum: ecfccf66b0d05cd14507999bf75fba53
+    path: file:///absolute/path/to/file  # or relative from this current dir
+    format: FASTQ
+  - name: d4abfa8790458b8f8ca9c9e286c11cf2.D25GFACXX_4_6nf_2.fastq.gz
+    size: 4702250389
+    md5sum: 597e28ed8ff252326572070e40066568
+    path: file:///absolute/path/to/file  # or relative from this current dir
+    format: FASTQ
+

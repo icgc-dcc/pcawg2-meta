@@ -1,0 +1,120 @@
+dcc_project_code: PBCA-DE
+submitter_donor_id: ICGC_PA41
+submitter_specimen_id: ICGC_PABL41
+submitter_sample_id: ICGC_PABL41
+dcc_specimen_type: Normal - blood derived
+library_strategy: WGS
+use_cntl: ''
+read_groups:
+- read_group_id: DKFZ:120126_SN952_0077_AC06MAACXX_6
+  sequencing_center: DKFZ
+  sequencing_platform: ILLUMINA
+  platform_model: ''
+  platform_unit: DKFZ:120126_SN952_0077_AC06MAACXX_6
+  library_name: WGS:DKFZ:ICGC_PABL41
+  insert_size: 373
+  sequencing_date: '2012-01-26T00:00:00.000+00:00'
+  files:
+  - name: 48e3408ed309f79b090b9a63a56da211.bam
+    size: 130213821688
+    rg_id_in_file: DKFZ:120126_SN952_0077_AC06MAACXX_6
+    md5sum: 48e3408ed309f79b090b9a63a56da211
+    path: song://collaboratory/222f4fc2-5291-42fc-b780-6726ce6924a9/c48daf0c-c631-5ed2-a180-b0a682a61446
+    reference_genome: ''
+    format: BAM
+- read_group_id: DKFZ:120412_SN7001177_0058_BC0KTKACXX_8
+  sequencing_center: DKFZ
+  sequencing_platform: ILLUMINA
+  platform_model: ''
+  platform_unit: DKFZ:120412_SN7001177_0058_BC0KTKACXX_8
+  library_name: WGS:DKFZ:ICGC_PABL41
+  insert_size: 373
+  sequencing_date: '2012-04-12T00:00:00.000+00:00'
+  files:
+  - name: 48e3408ed309f79b090b9a63a56da211.bam
+    size: 130213821688
+    rg_id_in_file: DKFZ:120412_SN7001177_0058_BC0KTKACXX_8
+    md5sum: 48e3408ed309f79b090b9a63a56da211
+    path: song://collaboratory/222f4fc2-5291-42fc-b780-6726ce6924a9/c48daf0c-c631-5ed2-a180-b0a682a61446
+    reference_genome: ''
+    format: BAM
+- read_group_id: DKFZ:121107_SN7001149_0113_BD1E4TACXX_1_GCCAAT
+  sequencing_center: DKFZ
+  sequencing_platform: ILLUMINA
+  platform_model: ''
+  platform_unit: DKFZ:121107_SN7001149_0113_BD1E4TACXX_1#GCCAAT
+  library_name: WGS:DKFZ:ICGC_PABL41
+  insert_size: 373
+  sequencing_date: '2012-11-07T00:00:00.000+00:00'
+  files:
+  - name: 48e3408ed309f79b090b9a63a56da211.bam
+    size: 130213821688
+    rg_id_in_file: DKFZ:121107_SN7001149_0113_BD1E4TACXX_1_GCCAAT
+    md5sum: 48e3408ed309f79b090b9a63a56da211
+    path: song://collaboratory/222f4fc2-5291-42fc-b780-6726ce6924a9/c48daf0c-c631-5ed2-a180-b0a682a61446
+    reference_genome: ''
+    format: BAM
+- read_group_id: DKFZ:121107_SN7001149_0113_BD1E4TACXX_2_GCCAAT
+  sequencing_center: DKFZ
+  sequencing_platform: ILLUMINA
+  platform_model: ''
+  platform_unit: DKFZ:121107_SN7001149_0113_BD1E4TACXX_2#GCCAAT
+  library_name: WGS:DKFZ:ICGC_PABL41
+  insert_size: 373
+  sequencing_date: '2012-11-07T00:00:00.000+00:00'
+  files:
+  - name: 48e3408ed309f79b090b9a63a56da211.bam
+    size: 130213821688
+    rg_id_in_file: DKFZ:121107_SN7001149_0113_BD1E4TACXX_2_GCCAAT
+    md5sum: 48e3408ed309f79b090b9a63a56da211
+    path: song://collaboratory/222f4fc2-5291-42fc-b780-6726ce6924a9/c48daf0c-c631-5ed2-a180-b0a682a61446
+    reference_genome: ''
+    format: BAM
+- read_group_id: DKFZ:121107_SN7001149_0113_BD1E4TACXX_3_GCCAAT
+  sequencing_center: DKFZ
+  sequencing_platform: ILLUMINA
+  platform_model: ''
+  platform_unit: DKFZ:121107_SN7001149_0113_BD1E4TACXX_3#GCCAAT
+  library_name: WGS:DKFZ:ICGC_PABL41
+  insert_size: 373
+  sequencing_date: '2012-11-07T00:00:00.000+00:00'
+  files:
+  - name: 48e3408ed309f79b090b9a63a56da211.bam
+    size: 130213821688
+    rg_id_in_file: DKFZ:121107_SN7001149_0113_BD1E4TACXX_3_GCCAAT
+    md5sum: 48e3408ed309f79b090b9a63a56da211
+    path: song://collaboratory/222f4fc2-5291-42fc-b780-6726ce6924a9/c48daf0c-c631-5ed2-a180-b0a682a61446
+    reference_genome: ''
+    format: BAM
+- read_group_id: DKFZ:121107_SN7001149_0113_BD1E4TACXX_4_GCCAAT
+  sequencing_center: DKFZ
+  sequencing_platform: ILLUMINA
+  platform_model: ''
+  platform_unit: DKFZ:121107_SN7001149_0113_BD1E4TACXX_4#GCCAAT
+  library_name: WGS:DKFZ:ICGC_PABL41
+  insert_size: 373
+  sequencing_date: '2012-11-07T00:00:00.000+00:00'
+  files:
+  - name: 48e3408ed309f79b090b9a63a56da211.bam
+    size: 130213821688
+    rg_id_in_file: DKFZ:121107_SN7001149_0113_BD1E4TACXX_4_GCCAAT
+    md5sum: 48e3408ed309f79b090b9a63a56da211
+    path: song://collaboratory/222f4fc2-5291-42fc-b780-6726ce6924a9/c48daf0c-c631-5ed2-a180-b0a682a61446
+    reference_genome: ''
+    format: BAM
+- read_group_id: DKFZ:121120_SN7001149_0114_AC1CL6ACXX_3
+  sequencing_center: DKFZ
+  sequencing_platform: ILLUMINA
+  platform_model: ''
+  platform_unit: DKFZ:121120_SN7001149_0114_AC1CL6ACXX_3
+  library_name: WGS:DKFZ:ICGC_PABL41
+  insert_size: 373
+  sequencing_date: '2012-11-20T00:00:00.000+00:00'
+  files:
+  - name: 48e3408ed309f79b090b9a63a56da211.bam
+    size: 130213821688
+    rg_id_in_file: DKFZ:121120_SN7001149_0114_AC1CL6ACXX_3
+    md5sum: 48e3408ed309f79b090b9a63a56da211
+    path: song://collaboratory/222f4fc2-5291-42fc-b780-6726ce6924a9/c48daf0c-c631-5ed2-a180-b0a682a61446
+    reference_genome: ''
+    format: BAM

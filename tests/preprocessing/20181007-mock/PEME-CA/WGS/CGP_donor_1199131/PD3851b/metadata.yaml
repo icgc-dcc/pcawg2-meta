@@ -1,0 +1,39 @@
+dcc_project_code: PEME-CA
+submitter_donor_id: CGP_donor_1199131
+submitter_specimen_id: CGP_specimen_1142534
+submitter_sample_id: PD3851b
+dcc_specimen_type: Primary tumour - solid tissue
+use_cntl: PD3851a  # matched normal sample, skip for normal sample
+library_strategy: WGS
+read_groups:  # read group IDs must match what's in the BAM file
+- read_group_id: WTSI-9399_9
+  sequencing_center: WTSI
+  sequencing_platform: ILLUMINA
+  platform_model: Illumina HiSeq 2000
+  platform_unit: WTSI-9400
+  library_name: WGS:WTSI:28099
+  insert_size: 453
+  sequencing_date: 2013-03-17T20:00:00-04:00
+  files:
+  - name: e29311f6f1bf1af907f9ef9f44b8328b.180289_icgc.bam
+    size: 23243533
+    md5sum: e29311f6f1bf1af907f9ef9f44b8328b
+    path: file:///absolute/path/to/file  # or relative from this current dir
+    format: BAM
+    rg_id_in_file: bar
+    reference_genome:  # required for CRAM
+- read_group_id: WTSI-9399_10
+  sequencing_center: WTSI
+  sequencing_platform: ILLUMINA
+  platform_model: Illumina HiSeq 2000
+  platform_unit: WTSI-9400
+  library_name: WGS:WTSI:28099
+  insert_size: 453
+  sequencing_date: 2013-03-17T20:00:00-04:00
+  files:
+  - name: e29311f6f1bf1af907f9ef9f44b8328b.180289_icgc.bam
+    size: 23243533
+    md5sum: e29311f6f1bf1af907f9ef9f44b8328b
+    path: file:///absolute/path/to/file  # or relative from this current dir
+    format: BAM
+    reference_genome:  # required for CRAM

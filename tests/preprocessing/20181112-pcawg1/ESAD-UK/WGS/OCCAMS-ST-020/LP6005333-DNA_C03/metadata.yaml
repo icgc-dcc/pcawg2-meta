@@ -1,0 +1,56 @@
+dcc_project_code: ESAD-UK
+submitter_donor_id: OCCAMS-ST-020
+submitter_specimen_id: OC-ST-020-B-F1
+submitter_sample_id: LP6005333-DNA_C03
+dcc_specimen_type: Normal - blood derived
+library_strategy: WGS
+use_cntl: ''
+read_groups:
+- read_group_id: CRUK-CI:LP6005333-DNA_C03A
+  sequencing_center: CRUK-CI
+  sequencing_platform: ILLUMINA
+  platform_model: Illumina HiSeq 2000
+  platform_unit: CRUK-CI:LP6005333-DNA_C03_7
+  library_name: WGS:CRUK-CI:LP6005333-DNA_C03
+  insert_size: 0
+  sequencing_date: '2014-07-26T00:00:00+00:00'
+  files:
+  - name: fdcb1bd7cffca69d15383ca9566c58e0.bam
+    size: 111026223473
+    rg_id_in_file: CRUK-CI:LP6005333-DNA_C03
+    md5sum: fdcb1bd7cffca69d15383ca9566c58e0
+    path: song://collaboratory/c9c8fa5f-c551-4565-ba3d-43ceddc2fdeb/cd3f2965-98a5-55ce-a113-205701ce326a
+    reference_genome: ''
+    format: BAM
+- read_group_id: CRUK-CI:LP6005333-DNA_C03B
+  sequencing_center: CRUK-CI
+  sequencing_platform: ILLUMINA
+  platform_model: Illumina HiSeq 2000
+  platform_unit: CRUK-CI:LP6005333-DNA_C03_8
+  library_name: WGS:CRUK-CI:LP6005333-DNA_C03
+  insert_size: 0
+  sequencing_date: '2014-07-26T00:00:00+00:00'
+  files:
+  - name: fdcb1bd7cffca69d15383ca9566c58e0.bam
+    size: 111026223473
+    rg_id_in_file: CRUK-CI:LP6005333-DNA_C03'
+    md5sum: fdcb1bd7cffca69d15383ca9566c58e0
+    path: song://collaboratory/c9c8fa5f-c551-4565-ba3d-43ceddc2fdeb/cd3f2965-98a5-55ce-a113-205701ce326a
+    reference_genome: ''
+    format: BAM
+- read_group_id: CRUK-CI:LP6005333-DNA_C03C
+  sequencing_center: CRUK-CI
+  sequencing_platform: ILLUMINA
+  platform_model: Illumina HiSeq 2000
+  platform_unit: CRUK-CI:LP6005333-DNA_C03_1
+  library_name: WGS:CRUK-CI:LP6005333-DNA_C03
+  insert_size: 0
+  sequencing_date: '2014-07-27T00:00:00+00:00'
+  files:
+  - name: fdcb1bd7cffca69d15383ca9566c58e0.bam
+    size: 111026223473
+    rg_id_in_file: CRUK-CI:LP6005333-DNA_C03''
+    md5sum: fdcb1bd7cffca69d15383ca9566c58e0
+    path: song://collaboratory/c9c8fa5f-c551-4565-ba3d-43ceddc2fdeb/cd3f2965-98a5-55ce-a113-205701ce326a
+    reference_genome: ''
+    format: BAM

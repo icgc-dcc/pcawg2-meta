@@ -1,0 +1,47 @@
+dcc_project_code: PEME-CA
+submitter_donor_id: CGP_donor_1199131
+submitter_specimen_id: CGP_specimen_1142534
+submitter_sample_id: PD3851bx
+dcc_specimen_type: Primary tumour - solid tissue
+use_cntl: PD3851ax  # matched normal sample, skip for normal sample
+library_strategy: WXS
+read_groups:
+- read_group_id: WTSI-9399_9
+  sequencing_center: WTSI
+  sequencing_platform: ILLUMINA
+  platform_model: Illumina HiSeq 2000
+  platform_unit: WTSI-9400
+  library_name: WGS:WTSI:28085
+  insert_size: 453  # required for paired end
+  sequencing_date: 2013-03-18T00:00:00+00:00
+  files:  # read 1 first, then read 2; one file if not paired end
+  - name: e1b14707e804af2e2cfb30b5124052c9.D26FYACXX_5_9nf_1.fastq.gz
+    size: 4668838182
+    md5sum: e1b14707e804af2e2cfb30b5124052c9
+    path: file:///absolute/path/to/file  # or relative from this current dir
+    format: FASTQ
+  - name: 52e4c80517a3abc1433d806f8639b9a7.D26FYACXX_5_9nf_2.fastq.gz
+    size: 4702250389
+    md5sum: 52e4c80517a3abc1433d806f8639b9a7
+    path: file:///absolute/path/to/file  # or relative from this current dir
+    format: FASTQ
+- read_group_id: WTSI-9399_10
+  sequencing_center: WTSI
+  sequencing_platform: ILLUMINA
+  platform_model: Illumina HiSeq 2000
+  platform_unit: WTSI-9400
+  library_name: WGS:WTSI:28085
+  insert_size: 453  # required for paired end
+  sequencing_date: 2013-03-18T00:00:00+00:00
+  files:  # read 1 first, then read 2; one file if not paired end
+  - name: b54ff375358c89af5d00a05448f53600.D2BLTACXX_1_9nf_1.fastq.gz
+    size: 4712664549
+    md5sum: b54ff375358c89af5d00a05448f53600
+    path: file:///absolute/path/to/file  # or relative from this current dir
+    format: FASTQ
+  - name: d3109be186bedb9aa18b673dc55c5cfe.D2BLTACXX_1_9nf_2.fastq.gz
+    size: 4713765984
+    md5sum: d3109be186bedb9aa18b673dc55c5cfe
+    path: file:///absolute/path/to/file  # or relative from this current dir
+    format: FASTQ
+

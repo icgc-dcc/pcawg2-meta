@@ -1,0 +1,72 @@
+dcc_project_code: PAEN-IT
+submitter_donor_id: ITNET-0681
+submitter_specimen_id: 681N
+submitter_sample_id: 681N
+dcc_specimen_type: Normal - solid tissue
+library_strategy: WGS
+use_cntl: ''
+read_groups:
+- read_group_id: QCMG:20140321165151466
+  sequencing_center: QCMG
+  sequencing_platform: ILLUMINA
+  platform_model: Illumina HiSeq 2000
+  platform_unit: QCMG:AC16FPACXX_5#TTAGGC
+  library_name: WGS:QCMG:Library_EXT20140320_C
+  insert_size: 232
+  sequencing_date: '2014-03-20T00:00:00+00:00'
+  files:
+  - name: 4525f90cdc32523a352da958159cfb22.bam
+    size: 210759604668
+    rg_id_in_file: QCMG:20140321165151466
+    md5sum: 4525f90cdc32523a352da958159cfb22
+    path: song://collaboratory/84f2f933-ea2f-4d79-9228-508b5dc77ac3/c1bff403-f740-565c-be41-d810cff2f009
+    reference_genome: ''
+    format: BAM
+- read_group_id: QCMG:20140321165152742
+  sequencing_center: QCMG
+  sequencing_platform: ILLUMINA
+  platform_model: Illumina HiSeq 2000
+  platform_unit: QCMG:AC16FPACXX_6#TTAGGC
+  library_name: WGS:QCMG:Library_EXT20140320_C
+  insert_size: 233
+  sequencing_date: '2014-03-20T00:00:00+00:00'
+  files:
+  - name: 4525f90cdc32523a352da958159cfb22.bam
+    size: 210759604668
+    rg_id_in_file: QCMG:20140321165152742
+    md5sum: 4525f90cdc32523a352da958159cfb22
+    path: song://collaboratory/84f2f933-ea2f-4d79-9228-508b5dc77ac3/c1bff403-f740-565c-be41-d810cff2f009
+    reference_genome: ''
+    format: BAM
+- read_group_id: QCMG:20140321165204862
+  sequencing_center: QCMG
+  sequencing_platform: ILLUMINA
+  platform_model: Illumina HiSeq 2000
+  platform_unit: QCMG:BC16B2ACXX_7#TTAGGC
+  library_name: WGS:QCMG:Library_EXT20140320_E
+  insert_size: 221
+  sequencing_date: '2014-03-20T00:00:00+00:00'
+  files:
+  - name: 4525f90cdc32523a352da958159cfb22.bam
+    size: 210759604668
+    rg_id_in_file: QCMG:20140321165204862
+    md5sum: 4525f90cdc32523a352da958159cfb22
+    path: song://collaboratory/84f2f933-ea2f-4d79-9228-508b5dc77ac3/c1bff403-f740-565c-be41-d810cff2f009
+    reference_genome: ''
+    format: BAM
+- read_group_id: QCMG:20140321165205527
+  sequencing_center: QCMG
+  sequencing_platform: ILLUMINA
+  platform_model: Illumina HiSeq 2000
+  platform_unit: QCMG:BC16B2ACXX_8#ATCACG
+  library_name: WGS:QCMG:Library_EXT20140320_E
+  insert_size: 241
+  sequencing_date: '2014-03-20T00:00:00+00:00'
+  files:
+  - name: 4525f90cdc32523a352da958159cfb22.bam
+    size: 210759604668
+    rg_id_in_file: QCMG:20140321165205527
+    md5sum: 4525f90cdc32523a352da958159cfb22
+    path: song://collaboratory/84f2f933-ea2f-4d79-9228-508b5dc77ac3/c1bff403-f740-565c-be41-d810cff2f009
+    reference_genome: ''
+    format: BAM
