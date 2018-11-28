@@ -4,16 +4,15 @@ submitter_specimen_id: 0109_CRUK_PC_0109_Blood
 submitter_sample_id: 0109_CRUK_PC_0109_Blood_DNA
 dcc_specimen_type: Normal - blood derived
 library_strategy: WGS
-use_cntl: ''
 read_groups:
 - read_group_id: '1953490'
   sequencing_center: EXT
   sequencing_platform: HiSeq
-  platform_model: ''
+  platform_model: Illumina
   platform_unit: '236_6'
   library_name: PD14733b_1_38342
   insert_size: 305
-  sequencing_date: ''
+  sequencing_date: '2014-03-20T00:00:00+00:00'
   files:
   - name: 7a60604579c5874c480836b3a6d2f9ef.180288_icgc.bam
     size: 80254796727
@@ -25,11 +24,11 @@ read_groups:
 - read_group_id: '1953495'
   sequencing_center: EXT
   sequencing_platform: HiSeq
-  platform_model: ''
+  platform_model: Illumina
   platform_unit: '236_7'
   library_name: PD14733b_1_38342
   insert_size: 305
-  sequencing_date: ''
+  sequencing_date: '2014-03-20T00:00:00+00:00'
   files:
   - name: 7a60604579c5874c480836b3a6d2f9ef.180288_icgc.bam
     size: 80254796727
@@ -41,11 +40,11 @@ read_groups:
 - read_group_id: '1953506'
   sequencing_center: EXT
   sequencing_platform: HiSeq
-  platform_model: ''
+  platform_model: Illumina
   platform_unit: '236_5'
   library_name: PD14733b_1_38342
   insert_size: 305
-  sequencing_date: ''
+  sequencing_date: '2014-03-20T00:00:00+00:00'
   files:
   - name: 7a60604579c5874c480836b3a6d2f9ef.180288_icgc.bam
     size: 80254796727
