@@ -1,0 +1,55 @@
+dcc_project_code: PEME-CA
+submitter_donor_id: MDT-AP-2514
+submitter_specimen_id: MDT-AP-2514_control_specimen
+submitter_sample_id: MDT-AP-2514_control
+dcc_specimen_type: Normal - blood derived
+library_strategy: WGS
+read_groups:
+- read_group_id: C3L1DACXX_C3L1DACXX.6
+  sequencing_center: BCGSC
+  sequencing_platform: ILLUMINA
+  platform_model: Illumina HiSeq
+  platform_unit: QC2000
+  library_name: control_MDT-AP-2514
+  insert_size: 150
+  sequencing_date: '2014-03-20T00:00:00+00:00'
+  files:
+  - name: e07331f299368f94df4819fa2a581c62.control_MDT-AP-2514_merged.mdup.bam
+    size: 95644414406
+    rg_id_in_file: C3L1DACXX_C3L1DACXX.6
+    md5sum: e07331f299368f94df4819fa2a581c62
+    path: song://collaboratory/EGAZ00001254324/488b2537-c7b5-52e8-b0ac-9d8f391e0f6d
+    reference_genome: ''
+    format: BAM
+- read_group_id: C3MJEACXX_C3MJEACXX.5
+  sequencing_center: BCGSC
+  sequencing_platform: ILLUMINA
+  platform_model: Illumina HiSeq
+  platform_unit: QC2000
+  library_name: control_MDT-AP-2514
+  insert_size: 150
+  sequencing_date: '2014-03-20T00:00:00+00:00'
+  files:
+  - name: e07331f299368f94df4819fa2a581c62.control_MDT-AP-2514_merged.mdup.bam
+    size: 95644414406
+    rg_id_in_file: C3MJEACXX_C3MJEACXX.5
+    md5sum: e07331f299368f94df4819fa2a581c62
+    path: song://collaboratory/EGAZ00001254324/488b2537-c7b5-52e8-b0ac-9d8f391e0f6d
+    reference_genome: ''
+    format: BAM
+- read_group_id: C3MJEACXX_C3MJEACXX.6
+  sequencing_center: BCGSC
+  sequencing_platform: ILLUMINA
+  platform_model: Illumina HiSeq
+  platform_unit: QC2000
+  library_name: control_MDT-AP-2514
+  insert_size: 150
+  sequencing_date: '2014-03-20T00:00:00+00:00'
+  files:
+  - name: e07331f299368f94df4819fa2a581c62.control_MDT-AP-2514_merged.mdup.bam
+    size: 95644414406
+    rg_id_in_file: C3MJEACXX_C3MJEACXX.6
+    md5sum: e07331f299368f94df4819fa2a581c62
+    path: song://collaboratory/EGAZ00001254324/488b2537-c7b5-52e8-b0ac-9d8f391e0f6d
+    reference_genome: ''
+    format: BAM

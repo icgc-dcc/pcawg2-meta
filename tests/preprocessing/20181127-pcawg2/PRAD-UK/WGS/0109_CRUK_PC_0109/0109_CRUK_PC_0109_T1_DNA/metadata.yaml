@@ -1,0 +1,88 @@
+dcc_project_code: PRAD-UK
+submitter_donor_id: 0109_CRUK_PC_0109
+submitter_specimen_id: 0109_CRUK_PC_0109_T1
+submitter_sample_id: 0109_CRUK_PC_0109_T1_DNA
+dcc_specimen_type: Primary tumour - solid tissue
+library_strategy: WGS
+use_cntl: ''
+read_groups:
+- read_group_id: '1953623'
+  sequencing_center: EXT
+  sequencing_platform: HiSeq
+  platform_model: ''
+  platform_unit: '284_1_8'
+  library_name: PD14733a_1_38385
+  insert_size: 305
+  sequencing_date: ''
+  files:
+  - name: 76b429268bfa0623402f17b44cd0d37a.180287_icgc.bam
+    size: 147851411913
+    rg_id_in_file: '1953623'
+    md5sum: 76b429268bfa0623402f17b44cd0d37a
+    path: song://collaboratory/EGAR00001270635/b9036373-2c01-5985-b0d7-7eccfa573f42
+    reference_genome: ''
+    format: BAM
+- read_group_id: '1953628'
+  sequencing_center: EXT
+  sequencing_platform: HiSeq
+  platform_model: ''
+  platform_unit: '284_7'
+  library_name: PD14733a_1_38385
+  insert_size: 305
+  sequencing_date: ''
+  files:
+  - name: 76b429268bfa0623402f17b44cd0d37a.180287_icgc.bam
+    size: 147851411913
+    rg_id_in_file: '1953628'
+    md5sum: 76b429268bfa0623402f17b44cd0d37a
+    path: song://collaboratory/EGAR00001270635/b9036373-2c01-5985-b0d7-7eccfa573f42
+    reference_genome: ''
+    format: BAM
+- read_group_id: '1954371'
+  sequencing_center: EXT
+  sequencing_platform: HiSeq
+  platform_model: ''
+  platform_unit: '284_4'
+  library_name: PD14733a_1_38385
+  insert_size: 305
+  sequencing_date: ''
+  files:
+  - name: 76b429268bfa0623402f17b44cd0d37a.180287_icgc.bam
+    size: 147851411913
+    rg_id_in_file: '1954371'
+    md5sum: 76b429268bfa0623402f17b44cd0d37a
+    path: song://collaboratory/EGAR00001270635/b9036373-2c01-5985-b0d7-7eccfa573f42
+    reference_genome: ''
+    format: BAM
+- read_group_id: '1954377'
+  sequencing_center: EXT
+  sequencing_platform: HiSeq
+  platform_model: ''
+  platform_unit: '284_5'
+  library_name: PD14733a_1_38385
+  insert_size: 305
+  sequencing_date: ''
+  files:
+  - name: 76b429268bfa0623402f17b44cd0d37a.180287_icgc.bam
+    size: 147851411913
+    rg_id_in_file: '1954377'
+    md5sum: 76b429268bfa0623402f17b44cd0d37a
+    path: song://collaboratory/EGAR00001270635/b9036373-2c01-5985-b0d7-7eccfa573f42
+    reference_genome: ''
+    format: BAM
+- read_group_id: '1954400'
+  sequencing_center: EXT
+  sequencing_platform: HiSeq
+  platform_model: ''
+  platform_unit: '284_6'
+  library_name: PD14733a_1_38385
+  insert_size: 305
+  sequencing_date: ''
+  files:
+  - name: 76b429268bfa0623402f17b44cd0d37a.180287_icgc.bam
+    size: 147851411913
+    rg_id_in_file: '1954400'
+    md5sum: 76b429268bfa0623402f17b44cd0d37a
+    path: song://collaboratory/EGAR00001270635/b9036373-2c01-5985-b0d7-7eccfa573f42
+    reference_genome: ''
+    format: BAM

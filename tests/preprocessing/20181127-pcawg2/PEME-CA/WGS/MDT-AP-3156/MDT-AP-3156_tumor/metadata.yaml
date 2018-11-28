@@ -1,0 +1,56 @@
+dcc_project_code: PEME-CA
+submitter_donor_id: MDT-AP-3156
+submitter_specimen_id: MDT-AP-3156_tumor_specimen
+submitter_sample_id: MDT-AP-3156_tumor
+dcc_specimen_type: Primary tumour - solid tissue
+library_strategy: WGS
+use_cntl: ''
+read_groups:
+- read_group_id: C3JY3ACXX_C3JY3ACXX.6
+  sequencing_center: ''
+  sequencing_platform: ILLUMINA
+  platform_model: ''
+  platform_unit: ''
+  library_name: tumor_MDT-AP-3156
+  insert_size: ''
+  sequencing_date: ''
+  files:
+  - name: 45b56d2d55bf1223763772afca09f8d8.tumor_MDT-AP-3156_merged.mdup.bam
+    size: 95300919593
+    rg_id_in_file: C3JY3ACXX_C3JY3ACXX.6
+    md5sum: 45b56d2d55bf1223763772afca09f8d8
+    path: song://collaboratory/EGAZ00001254457/a969449a-fa0e-52e3-828d-b99ba609d0ea
+    reference_genome: ''
+    format: BAM
+- read_group_id: C3MC8ACXX_C3MC8ACXX.1
+  sequencing_center: ''
+  sequencing_platform: ILLUMINA
+  platform_model: ''
+  platform_unit: ''
+  library_name: tumor_MDT-AP-3156
+  insert_size: ''
+  sequencing_date: ''
+  files:
+  - name: 45b56d2d55bf1223763772afca09f8d8.tumor_MDT-AP-3156_merged.mdup.bam
+    size: 95300919593
+    rg_id_in_file: C3MC8ACXX_C3MC8ACXX.1
+    md5sum: 45b56d2d55bf1223763772afca09f8d8
+    path: song://collaboratory/EGAZ00001254457/a969449a-fa0e-52e3-828d-b99ba609d0ea
+    reference_genome: ''
+    format: BAM
+- read_group_id: C3MC8ACXX_C3MC8ACXX.2
+  sequencing_center: ''
+  sequencing_platform: ILLUMINA
+  platform_model: ''
+  platform_unit: ''
+  library_name: tumor_MDT-AP-3156
+  insert_size: ''
+  sequencing_date: ''
+  files:
+  - name: 45b56d2d55bf1223763772afca09f8d8.tumor_MDT-AP-3156_merged.mdup.bam
+    size: 95300919593
+    rg_id_in_file: C3MC8ACXX_C3MC8ACXX.2
+    md5sum: 45b56d2d55bf1223763772afca09f8d8
+    path: song://collaboratory/EGAZ00001254457/a969449a-fa0e-52e3-828d-b99ba609d0ea
+    reference_genome: ''
+    format: BAM

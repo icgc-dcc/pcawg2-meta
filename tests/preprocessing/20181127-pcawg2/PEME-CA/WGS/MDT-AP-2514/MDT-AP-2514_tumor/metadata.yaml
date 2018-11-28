@@ -1,0 +1,56 @@
+dcc_project_code: PEME-CA
+submitter_donor_id: MDT-AP-2514
+submitter_specimen_id: MDT-AP-2514_tumor_specimen
+submitter_sample_id: MDT-AP-2514_tumor
+dcc_specimen_type: Primary tumour - solid tissue
+library_strategy: WGS
+use_cntl: MDT-AP-2514_control
+read_groups:
+- read_group_id: C3L22ACXX_C3L22ACXX.6
+  sequencing_center: BCGSC
+  sequencing_platform: ILLUMINA
+  platform_model: Illumina HiSeq
+  platform_unit: QC2000
+  library_name: tumor_MDT-AP-2514
+  insert_size: 150
+  sequencing_date: '2014-03-20T00:00:00+00:00'
+  files:
+  - name: 0898ddaac100e6309c47021aed3dd7d6.tumor_MDT-AP-2514_merged.mdup.bam
+    size: 89176261633
+    rg_id_in_file: C3L22ACXX_C3L22ACXX.6
+    md5sum: 0898ddaac100e6309c47021aed3dd7d6
+    path: song://collaboratory/EGAZ00001254436/3c13b468-4410-52e7-802e-a4be630ca713
+    reference_genome: ''
+    format: BAM
+- read_group_id: C3MC8ACXX_C3MC8ACXX.7
+  sequencing_center: BCGSC
+  sequencing_platform: ILLUMINA
+  platform_model: Illumina HiSeq
+  platform_unit: QC2000
+  library_name: tumor_MDT-AP-2514
+  insert_size: 150
+  sequencing_date: '2014-03-20T00:00:00+00:00'
+  files:
+  - name: 0898ddaac100e6309c47021aed3dd7d6.tumor_MDT-AP-2514_merged.mdup.bam
+    size: 89176261633
+    rg_id_in_file: C3MC8ACXX_C3MC8ACXX.7
+    md5sum: 0898ddaac100e6309c47021aed3dd7d6
+    path: song://collaboratory/EGAZ00001254436/3c13b468-4410-52e7-802e-a4be630ca713
+    reference_genome: ''
+    format: BAM
+- read_group_id: C3MC8ACXX_C3MC8ACXX.8
+  sequencing_center: BCGSC
+  sequencing_platform: ILLUMINA
+  platform_model: Illumina HiSeq
+  platform_unit: QC2000
+  library_name: tumor_MDT-AP-2514
+  insert_size: 150
+  sequencing_date: '2014-03-20T00:00:00+00:00'
+  files:
+  - name: 0898ddaac100e6309c47021aed3dd7d6.tumor_MDT-AP-2514_merged.mdup.bam
+    size: 89176261633
+    rg_id_in_file: C3MC8ACXX_C3MC8ACXX.8
+    md5sum: 0898ddaac100e6309c47021aed3dd7d6
+    path: song://collaboratory/EGAZ00001254436/3c13b468-4410-52e7-802e-a4be630ca713
+    reference_genome: ''
+    format: BAM

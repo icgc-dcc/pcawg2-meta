@@ -1,0 +1,56 @@
+dcc_project_code: PEME-CA
+submitter_donor_id: MDT-AP-3156
+submitter_specimen_id: MDT-AP-3156_control_specimen
+submitter_sample_id: MDT-AP-3156_control
+dcc_specimen_type: Normal - blood derived
+library_strategy: WGS
+use_cntl: ''
+read_groups:
+- read_group_id: C3K7FACXX_C3K7FACXX.6
+  sequencing_center: ''
+  sequencing_platform: ILLUMINA
+  platform_model: ''
+  platform_unit: ''
+  library_name: control_MDT-AP-3156
+  insert_size: ''
+  sequencing_date: ''
+  files:
+  - name: 6f1d6b4623577eef109ac918a171bc35.control_MDT-AP-3156_merged.mdup.bam
+    size: 102631618257
+    rg_id_in_file: C3K7FACXX_C3K7FACXX.6
+    md5sum: 6f1d6b4623577eef109ac918a171bc35
+    path: song://collaboratory/EGAZ00001254345/8d5b7591-9336-5afa-8afd-cc3e1c5da68d
+    reference_genome: ''
+    format: BAM
+- read_group_id: C3KF8ACXX_C3KF8ACXX.7
+  sequencing_center: ''
+  sequencing_platform: ILLUMINA
+  platform_model: ''
+  platform_unit: ''
+  library_name: control_MDT-AP-3156
+  insert_size: ''
+  sequencing_date: ''
+  files:
+  - name: 6f1d6b4623577eef109ac918a171bc35.control_MDT-AP-3156_merged.mdup.bam
+    size: 102631618257
+    rg_id_in_file: C3KF8ACXX_C3KF8ACXX.7
+    md5sum: 6f1d6b4623577eef109ac918a171bc35
+    path: song://collaboratory/EGAZ00001254345/8d5b7591-9336-5afa-8afd-cc3e1c5da68d
+    reference_genome: ''
+    format: BAM
+- read_group_id: C3KF8ACXX_C3KF8ACXX.8
+  sequencing_center: ''
+  sequencing_platform: ILLUMINA
+  platform_model: ''
+  platform_unit: ''
+  library_name: control_MDT-AP-3156
+  insert_size: ''
+  sequencing_date: ''
+  files:
+  - name: 6f1d6b4623577eef109ac918a171bc35.control_MDT-AP-3156_merged.mdup.bam
+    size: 102631618257
+    rg_id_in_file: C3KF8ACXX_C3KF8ACXX.8
+    md5sum: 6f1d6b4623577eef109ac918a171bc35
+    path: song://collaboratory/EGAZ00001254345/8d5b7591-9336-5afa-8afd-cc3e1c5da68d
+    reference_genome: ''
+    format: BAM
