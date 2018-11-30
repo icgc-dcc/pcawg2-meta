@@ -2,17 +2,18 @@ dcc_project_code: PRAD-UK
 submitter_donor_id: 0109_CRUK_PC_0109
 submitter_specimen_id: 0109_CRUK_PC_0109_Blood
 submitter_sample_id: 0109_CRUK_PC_0109_Blood_DNA
+aliquot_id: ca497500-07a0-5af9-9b3b-485841e5b043
 dcc_specimen_type: Normal - blood derived
 library_strategy: WGS
 read_groups:
 - read_group_id: '1953490'
   sequencing_center: EXT
   sequencing_platform: HiSeq
-  platform_model: Illumina
+  platform_model: Illumina #fake
   platform_unit: '236_6'
   library_name: PD14733b_1_38342
   insert_size: 305
-  sequencing_date: '2014-03-20T00:00:00+00:00'
+  sequencing_date: '2014-03-20T00:00:00+00:00' #fake
   files:
   - name: 7a60604579c5874c480836b3a6d2f9ef.180288_icgc.bam
     size: 80254796727
@@ -24,11 +25,11 @@ read_groups:
 - read_group_id: '1953495'
   sequencing_center: EXT
   sequencing_platform: HiSeq
-  platform_model: Illumina
+  platform_model: Illumina #fake
   platform_unit: '236_7'
   library_name: PD14733b_1_38342
   insert_size: 305
-  sequencing_date: '2014-03-20T00:00:00+00:00'
+  sequencing_date: '2014-03-20T00:00:00+00:00' #fake
   files:
   - name: 7a60604579c5874c480836b3a6d2f9ef.180288_icgc.bam
     size: 80254796727
@@ -40,11 +41,11 @@ read_groups:
 - read_group_id: '1953506'
   sequencing_center: EXT
   sequencing_platform: HiSeq
-  platform_model: Illumina
+  platform_model: Illumina #fake
   platform_unit: '236_5'
   library_name: PD14733b_1_38342
   insert_size: 305
-  sequencing_date: '2014-03-20T00:00:00+00:00'
+  sequencing_date: '2014-03-20T00:00:00+00:00' #fake
   files:
   - name: 7a60604579c5874c480836b3a6d2f9ef.180288_icgc.bam
     size: 80254796727

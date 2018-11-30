@@ -2,17 +2,18 @@ dcc_project_code: PEME-CA
 submitter_donor_id: MDT-AP-3156
 submitter_specimen_id: MDT-AP-3156_control_specimen
 submitter_sample_id: MDT-AP-3156_control
+aliquot_id: 0b9ffb8b-0951-5f0a-87c2-fe561af5c258
 dcc_specimen_type: Normal - blood derived
 library_strategy: WGS
 read_groups:
 - read_group_id: C3K7FACXX_C3K7FACXX.6
-  sequencing_center: BCGSC
+  sequencing_center: BCGSC #fake
   sequencing_platform: ILLUMINA
-  platform_model: Illumina HiSeq
-  platform_unit: QC2000
+  platform_model: Illumina HiSeq #fake
+  platform_unit: QC2000 #fake
   library_name: control_MDT-AP-3156
-  insert_size: 150
-  sequencing_date: '2014-03-20T00:00:00+00:00'
+  insert_size: 150 #fake
+  sequencing_date: '2014-03-20T00:00:00+00:00' #fake
   files:
   - name: 6f1d6b4623577eef109ac918a171bc35.control_MDT-AP-3156_merged.mdup.bam
     size: 102631618257
@@ -22,13 +23,13 @@ read_groups:
     reference_genome: ''
     format: BAM
 - read_group_id: C3KF8ACXX_C3KF8ACXX.7
-  sequencing_center: BCGSC
+  sequencing_center: BCGSC #fake
   sequencing_platform: ILLUMINA
-  platform_model: Illumina HiSeq
-  platform_unit: QC2000
+  platform_model: Illumina HiSeq #fake
+  platform_unit: QC2000 #fake
   library_name: control_MDT-AP-3156
-  insert_size: 150
-  sequencing_date: '2014-03-20T00:00:00+00:00'
+  insert_size: 150 #fake
+  sequencing_date: '2014-03-20T00:00:00+00:00' #fake
   files:
   - name: 6f1d6b4623577eef109ac918a171bc35.control_MDT-AP-3156_merged.mdup.bam
     size: 102631618257
@@ -38,13 +39,13 @@ read_groups:
     reference_genome: ''
     format: BAM
 - read_group_id: C3KF8ACXX_C3KF8ACXX.8
-  sequencing_center: BCGSC
+  sequencing_center: BCGSC #fake
   sequencing_platform: ILLUMINA
-  platform_model: Illumina HiSeq
-  platform_unit: QC2000
+  platform_model: Illumina HiSeq #fake
+  platform_unit: QC2000 #fake
   library_name: control_MDT-AP-3156
-  insert_size: 150
-  sequencing_date: '2014-03-20T00:00:00+00:00'
+  insert_size: 150 #fake
+  sequencing_date: '2014-03-20T00:00:00+00:00' #fake
   files:
   - name: 6f1d6b4623577eef109ac918a171bc35.control_MDT-AP-3156_merged.mdup.bam
     size: 102631618257
