@@ -1,0 +1,73 @@
+dcc_project_code: OV-AU
+submitter_donor_id: AOCS-137
+submitter_specimen_id: AOCS-137-12
+submitter_sample_id: AOCS-137-1-X
+aliquot_id: 6204bc98-5ef2-5920-8fea-820a6fa9afdb
+dcc_specimen_type: Primary tumour - other
+library_strategy: WGS
+use_cntl: ''
+read_groups:
+- read_group_id: '20130311084234832'
+  sequencing_center: QCMG
+  sequencing_platform: ILLUMINA
+  platform_model: ''
+  platform_unit: lane_3.nobc
+  library_name: LP6005312-DNA_D02
+  insert_size: ''
+  sequencing_date: ''
+  files:
+  - name: 3bb7165192c420c7a9d14055d20f9d6b.IcgcOvarian_AOCS137_1DNA_12Ascites_ICGCDBPC20130205145_IlluminaIGNOutsourcing_NoCapture_Bwa_HiSeq.jpearson.bam
+    size: 182480072864
+    rg_id_in_file: '20130311084234832'
+    md5sum: 3bb7165192c420c7a9d14055d20f9d6b
+    path: song://collaboratory/EGAZ00001018810/1102b02d-ca3f-581f-8462-7273fc45134f
+    reference_genome: ''
+    format: BAM
+- read_group_id: '20130311082016987'
+  sequencing_center: QCMG
+  sequencing_platform: ILLUMINA
+  platform_model: ''
+  platform_unit: lane_4.nobc
+  library_name: LP6005312-DNA_D02
+  insert_size: ''
+  sequencing_date: ''
+  files:
+  - name: 3bb7165192c420c7a9d14055d20f9d6b.IcgcOvarian_AOCS137_1DNA_12Ascites_ICGCDBPC20130205145_IlluminaIGNOutsourcing_NoCapture_Bwa_HiSeq.jpearson.bam
+    size: 182480072864
+    rg_id_in_file: '20130311082016987'
+    md5sum: 3bb7165192c420c7a9d14055d20f9d6b
+    path: song://collaboratory/EGAZ00001018810/1102b02d-ca3f-581f-8462-7273fc45134f
+    reference_genome: ''
+    format: BAM
+- read_group_id: '20130311031333544'
+  sequencing_center: QCMG
+  sequencing_platform: ILLUMINA
+  platform_model: ''
+  platform_unit: lane_1.nobc
+  library_name: LP6005312-DNA_D02
+  insert_size: ''
+  sequencing_date: ''
+  files:
+  - name: 3bb7165192c420c7a9d14055d20f9d6b.IcgcOvarian_AOCS137_1DNA_12Ascites_ICGCDBPC20130205145_IlluminaIGNOutsourcing_NoCapture_Bwa_HiSeq.jpearson.bam
+    size: 182480072864
+    rg_id_in_file: '20130311031333544'
+    md5sum: 3bb7165192c420c7a9d14055d20f9d6b
+    path: song://collaboratory/EGAZ00001018810/1102b02d-ca3f-581f-8462-7273fc45134f
+    reference_genome: ''
+    format: BAM
+- read_group_id: '20130311031911929'
+  sequencing_center: QCMG
+  sequencing_platform: ILLUMINA
+  platform_model: ''
+  platform_unit: lane_2.nobc
+  library_name: LP6005312-DNA_D02
+  insert_size: ''
+  sequencing_date: ''
+  files:
+  - name: 3bb7165192c420c7a9d14055d20f9d6b.IcgcOvarian_AOCS137_1DNA_12Ascites_ICGCDBPC20130205145_IlluminaIGNOutsourcing_NoCapture_Bwa_HiSeq.jpearson.bam
+    size: 182480072864
+    rg_id_in_file: '20130311031911929'
+    md5sum: 3bb7165192c420c7a9d14055d20f9d6b
+    path: song://collaboratory/EGAZ00001018810/1102b02d-ca3f-581f-8462-7273fc45134f
+    reference_genome: ''
+    format: BAM
