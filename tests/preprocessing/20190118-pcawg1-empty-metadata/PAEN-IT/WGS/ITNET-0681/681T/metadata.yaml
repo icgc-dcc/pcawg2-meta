@@ -1,0 +1,72 @@
+dcc_project_code: PAEN-IT
+submitter_donor_id: ITNET-0681
+submitter_specimen_id: 681T
+submitter_sample_id: 681T
+dcc_specimen_type: Primary tumour - solid tissue
+library_strategy: WGS
+use_cntl: 681N
+read_groups:
+- read_group_id: QCMG:20140321165137162
+  sequencing_center: ''
+  sequencing_platform: ''
+  platform_model: ''
+  platform_unit: ''
+  library_name: ''
+  insert_size: 
+  sequencing_date:
+  files:
+  - name: 5158047aed412c02b3329ac55c3f8f68.bam
+    size: 193024377860
+    rg_id_in_file: QCMG:20140321165137162
+    md5sum: 5158047aed412c02b3329ac55c3f8f68
+    path: song://collaboratory/cfbea176-5f92-497e-91d9-81a4322a060f/f55aaed0-6e75-5bc1-bb86-f4d22904cd66
+    reference_genome: ''
+    format: BAM
+- read_group_id: QCMG:20140321165156852
+  sequencing_center: ''
+  sequencing_platform: ''
+  platform_model: ''
+  platform_unit: ''
+  library_name: ''
+  insert_size: 
+  sequencing_date:
+  files:
+  - name: 5158047aed412c02b3329ac55c3f8f68.bam
+    size: 193024377860
+    rg_id_in_file: QCMG:20140321165156852
+    md5sum: 5158047aed412c02b3329ac55c3f8f68
+    path: song://collaboratory/cfbea176-5f92-497e-91d9-81a4322a060f/f55aaed0-6e75-5bc1-bb86-f4d22904cd66
+    reference_genome: ''
+    format: BAM
+- read_group_id: QCMG:20140321165201740
+  sequencing_center: ''
+  sequencing_platform: ''
+  platform_model: ''
+  platform_unit: ''
+  library_name: ''
+  insert_size:
+  sequencing_date:
+  files:
+  - name: 5158047aed412c02b3329ac55c3f8f68.bam
+    size: 193024377860
+    rg_id_in_file: QCMG:20140321165201740
+    md5sum: 5158047aed412c02b3329ac55c3f8f68
+    path: song://collaboratory/cfbea176-5f92-497e-91d9-81a4322a060f/f55aaed0-6e75-5bc1-bb86-f4d22904cd66
+    reference_genome: ''
+    format: BAM
+- read_group_id: QCMG:20140321165202222
+  sequencing_center: ''
+  sequencing_platform: ''
+  platform_model: ''
+  platform_unit: ''
+  library_name: ''
+  insert_size:
+  sequencing_date:
+  files:
+  - name: 5158047aed412c02b3329ac55c3f8f68.bam
+    size: 193024377860
+    rg_id_in_file: QCMG:20140321165202222
+    md5sum: 5158047aed412c02b3329ac55c3f8f68
+    path: song://collaboratory/cfbea176-5f92-497e-91d9-81a4322a060f/f55aaed0-6e75-5bc1-bb86-f4d22904cd66
+    reference_genome: ''
+    format: BAM
