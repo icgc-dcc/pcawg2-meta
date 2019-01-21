@@ -5,13 +5,13 @@ submitter_sample_id: LP6005334-DNA_C03
 aliquot_id: 128eb20d-b511-559d-8d1b-fdf135bba8eb
 dcc_specimen_type: Primary tumour - solid tissue
 library_strategy: WGS
-use_cntl: LP6005333-DNA_C03
+use_cntl: b238d841-99f3-5762-9844-7d1edf4710a2
 read_groups:
 - read_group_id: CRUK-CI:LP6005334-DNA_C03_01
   sequencing_center: ''
   sequencing_platform: ILLUMINA
-  platform_model: Illumina HiSeq 2000
-  platform_unit: 284_1_8
+  platform_model: ''
+  platform_unit: '284_1_8'
   library_name: CRUK-CI:LP6005334-DNA
   insert_size: 
   sequencing_date: 
@@ -26,8 +26,8 @@ read_groups:
 - read_group_id: CRUK-CI:LP6005334-DNA_C03_02
   sequencing_center: ''
   sequencing_platform: ILLUMINA
-  platform_model: Illumina HiSeq 2000
-  platform_unit: 284_1_8
+  platform_model: ''
+  platform_unit: '284_1_8'
   library_name: CRUK-CI:LP6005334-DNA
   insert_size: 
   sequencing_date:
@@ -42,8 +42,8 @@ read_groups:
 - read_group_id: CRUK-CI:LP6005334-DNA_C03_03
   sequencing_center: ''
   sequencing_platform: ILLUMINA
-  platform_model: Illumina HiSeq 2000
-  platform_unit: 284_1_8
+  platform_model: ''
+  platform_unit: '284_1_8'
   library_name: CRUK-CI:LP6005334-DNA
   insert_size: 
   sequencing_date:
@@ -58,8 +58,8 @@ read_groups:
 - read_group_id: CRUK-CI:LP6005334-DNA_C03_04
   sequencing_center: ''
   sequencing_platform: ILLUMINA
-  platform_model: Illumina HiSeq 2000
-  platform_unit: 284_1_8
+  platform_model: ''
+  platform_unit: '284_1_8'
   library_name: CRUK-CI:LP6005334-DNA
   insert_size: 
   sequencing_date:
@@ -74,8 +74,8 @@ read_groups:
 - read_group_id: CRUK-CI:LP6005334-DNA_C03_05
   sequencing_center: ''
   sequencing_platform: ILLUMINA
-  platform_model: Illumina HiSeq 2000
-  platform_unit: 284_1_8
+  platform_model: ''
+  platform_unit: '284_1_8'
   library_name: CRUK-CI:LP6005334-DNA
   insert_size: 
   sequencing_date: 
