@@ -2,6 +2,7 @@ dccProjectCode: LICA-FR
 submitterDonorId: CHC1717
 submitterSpecimenId: CHC1717N
 submitterSampleId: CHC1717N
+gender: male
 aliquotId: 0862470b-1cf3-5556-abbd-8fd70f0e946c
 dccSpecimenType: Normal - tissue adjacent to primary
 libraryStrategy: WGS

@@ -2,6 +2,7 @@ dccProjectCode: LICA-FR
 submitterDonorId: CHC334
 submitterSpecimenId: CHC334N
 submitterSampleId: CHC334N
+gender: female
 aliquotId: 62df2228-655e-5d96-9274-c0be13e0bc8c
 dccSpecimenType: Normal - tissue adjacent to primary
 libraryStrategy: WGS

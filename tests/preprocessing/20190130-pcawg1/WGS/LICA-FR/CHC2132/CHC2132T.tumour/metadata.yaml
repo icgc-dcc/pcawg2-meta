@@ -2,6 +2,7 @@ dccProjectCode: LICA-FR
 submitterDonorId: CHC2132
 submitterSpecimenId: CHC2132T
 submitterSampleId: CHC2132T
+gender: male
 aliquotId: 3be49b23-7a7e-53d2-91b7-fa4ea4efcfe7
 dccSpecimenType: Primary tumour - solid tissue
 libraryStrategy: WGS

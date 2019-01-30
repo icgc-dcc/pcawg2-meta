@@ -2,6 +2,7 @@ dccProjectCode: LICA-FR
 submitterDonorId: CHC304
 submitterSpecimenId: CHC304N
 submitterSampleId: CHC304N
+gender: male
 aliquotId: 1ce7bed4-82fa-59b4-9c81-af052e73eaf6
 dccSpecimenType: Normal - tissue adjacent to primary
 libraryStrategy: WGS

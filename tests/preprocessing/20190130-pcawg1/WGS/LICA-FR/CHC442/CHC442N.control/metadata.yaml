@@ -2,6 +2,7 @@ dccProjectCode: LICA-FR
 submitterDonorId: CHC442
 submitterSpecimenId: CHC442N
 submitterSampleId: CHC442N
+gender: female
 aliquotId: 58898094-9ba8-561a-9977-501049714e8c
 dccSpecimenType: Normal - tissue adjacent to primary
 libraryStrategy: WGS

@@ -2,6 +2,7 @@ dccProjectCode: LICA-FR
 submitterDonorId: CHC2449
 submitterSpecimenId: CHC2449N
 submitterSampleId: CHC2449N
+gender: male
 aliquotId: 284ddc50-442b-594d-ae83-82713f34e860
 dccSpecimenType: Normal - tissue adjacent to primary
 libraryStrategy: WGS

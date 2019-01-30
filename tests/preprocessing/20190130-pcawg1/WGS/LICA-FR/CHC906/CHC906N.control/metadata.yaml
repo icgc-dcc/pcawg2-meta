@@ -2,6 +2,7 @@ dccProjectCode: LICA-FR
 submitterDonorId: CHC906
 submitterSpecimenId: CHC906N
 submitterSampleId: CHC906N
+gender: female
 aliquotId: 9ef58497-cbb4-5d7f-ad1e-4e2a8219b3ee
 dccSpecimenType: Normal - tissue adjacent to primary
 libraryStrategy: WGS

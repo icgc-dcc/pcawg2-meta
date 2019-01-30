@@ -2,6 +2,7 @@ dccProjectCode: LICA-FR
 submitterDonorId: CHC018
 submitterSpecimenId: CHC018T
 submitterSampleId: CHC018T
+gender: female
 aliquotId: 59eb63dd-503e-55a6-ac5d-d0cd27ae8cc9
 dccSpecimenType: Primary tumour - solid tissue
 libraryStrategy: WGS

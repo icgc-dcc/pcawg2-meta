@@ -2,6 +2,7 @@ dccProjectCode: LICA-FR
 submitterDonorId: CHC304
 submitterSpecimenId: CHC304T
 submitterSampleId: CHC304T
+gender: male
 aliquotId: 7992c1ab-23dd-5252-8cad-fa76fd879d40
 dccSpecimenType: Primary tumour - solid tissue
 libraryStrategy: WGS

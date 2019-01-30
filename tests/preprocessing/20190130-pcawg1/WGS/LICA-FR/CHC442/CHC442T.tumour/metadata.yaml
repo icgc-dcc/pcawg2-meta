@@ -2,6 +2,7 @@ dccProjectCode: LICA-FR
 submitterDonorId: CHC442
 submitterSpecimenId: CHC442T
 submitterSampleId: CHC442T
+gender: female
 aliquotId: 13671800-fb50-5499-bf37-b0b96f5e3e7f
 dccSpecimenType: Primary tumour - solid tissue
 libraryStrategy: WGS

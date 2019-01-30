@@ -2,6 +2,7 @@ dccProjectCode: LICA-FR
 submitterDonorId: CHC2207
 submitterSpecimenId: CHC2207T
 submitterSampleId: CHC2207T
+gender: male
 aliquotId: 7c2630c8-4cf5-53f6-a9e9-3db6b8162016
 dccSpecimenType: Primary tumour - solid tissue
 libraryStrategy: WGS

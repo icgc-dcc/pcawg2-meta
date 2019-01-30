@@ -2,6 +2,7 @@ dccProjectCode: LICA-FR
 submitterDonorId: CHC361
 submitterSpecimenId: CHC361TA
 submitterSampleId: CHC361TA
+gender: female
 aliquotId: 85ac0d6f-f2a4-5a87-a8d4-6935f3e2d10d
 dccSpecimenType: Primary tumour - solid tissue
 libraryStrategy: WGS

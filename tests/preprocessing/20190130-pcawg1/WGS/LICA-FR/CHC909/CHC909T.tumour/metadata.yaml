@@ -2,6 +2,7 @@ dccProjectCode: LICA-FR
 submitterDonorId: CHC909
 submitterSpecimenId: CHC909T
 submitterSampleId: CHC909T
+gender: male
 aliquotId: ddd62cb2-c6a6-5b57-844b-b2f251de18ca
 dccSpecimenType: Primary tumour - solid tissue
 libraryStrategy: WGS
