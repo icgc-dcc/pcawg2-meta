@@ -1,0 +1,298 @@
+study: TEST-CA
+donorSubmitterId: HCC1143
+specimenSubmitterId: HCC1143_tumour
+sampleSubmitterId: HCC1143
+donorGender: male
+aliquotId: ea0faeab-31b0-5087-96e3-a467fbd2f042
+specimenType: Primary tumour - solid tissue
+libraryStrategy: WGS
+useCntl: ea0faeab-31b0-5087-96e3-a467fbd2f042
+readGroups:
+- readGroupId: C0HVY.1
+  libraryName: Pond-147580
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: C0HVY.1_1
+  insertSize: null
+  sequencingCenter: BI
+  sequencingDate: ''
+  files:
+  - fileName: HCC1143.bam
+    fileSize: 5236656816
+    readGroupIdInFile: C0HVY.1
+    fileMd5sum: 49552e9c3d342399410c289c5b21877d
+    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: C0HVY.2
+  libraryName: Pond-147580
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: C0HVY.2_2
+  insertSize: null
+  sequencingCenter: BI
+  sequencingDate: ''
+  files:
+  - fileName: HCC1143.bam
+    fileSize: 5236656816
+    readGroupIdInFile: C0HVY.2
+    fileMd5sum: 49552e9c3d342399410c289c5b21877d
+    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: C0HVY.3
+  libraryName: Pond-147580
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: C0HVY.3_3
+  insertSize: null
+  sequencingCenter: BI
+  sequencingDate: ''
+  files:
+  - fileName: HCC1143.bam
+    fileSize: 5236656816
+    readGroupIdInFile: C0HVY.3
+    fileMd5sum: 49552e9c3d342399410c289c5b21877d
+    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: C0HVY.4
+  libraryName: Pond-147580
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: C0HVY.4_4
+  insertSize: null
+  sequencingCenter: BI
+  sequencingDate: ''
+  files:
+  - fileName: HCC1143.bam
+    fileSize: 5236656816
+    readGroupIdInFile: C0HVY.4
+    fileMd5sum: 49552e9c3d342399410c289c5b21877d
+    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: C0HVY.5
+  libraryName: Pond-147580
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: C0HVY.5_5
+  insertSize: null
+  sequencingCenter: BI
+  sequencingDate: ''
+  files:
+  - fileName: HCC1143.bam
+    fileSize: 5236656816
+    readGroupIdInFile: C0HVY.5
+    fileMd5sum: 49552e9c3d342399410c289c5b21877d
+    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: C0HVY.6
+  libraryName: Pond-147580
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: C0HVY.6_6
+  insertSize: null
+  sequencingCenter: BI
+  sequencingDate: ''
+  files:
+  - fileName: HCC1143.bam
+    fileSize: 5236656816
+    readGroupIdInFile: C0HVY.6
+    fileMd5sum: 49552e9c3d342399410c289c5b21877d
+    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: C0HVY.7
+  libraryName: Pond-147580
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: C0HVY.7_7
+  insertSize: null
+  sequencingCenter: BI
+  sequencingDate: ''
+  files:
+  - fileName: HCC1143.bam
+    fileSize: 5236656816
+    readGroupIdInFile: C0HVY.7
+    fileMd5sum: 49552e9c3d342399410c289c5b21877d
+    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: C0HVY.8
+  libraryName: Pond-147580
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: C0HVY.8_8
+  insertSize: null
+  sequencingCenter: BI
+  sequencingDate: ''
+  files:
+  - fileName: HCC1143.bam
+    fileSize: 5236656816
+    readGroupIdInFile: C0HVY.8
+    fileMd5sum: 49552e9c3d342399410c289c5b21877d
+    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: D0RE2.1
+  libraryName: Pond-147580
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: D0RE2.1_9
+  insertSize: null
+  sequencingCenter: BI
+  sequencingDate: ''
+  files:
+  - fileName: HCC1143.bam
+    fileSize: 5236656816
+    readGroupIdInFile: D0RE2.1
+    fileMd5sum: 49552e9c3d342399410c289c5b21877d
+    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: D0RE2.2
+  libraryName: Pond-147580
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: D0RE2.2_10
+  insertSize: null
+  sequencingCenter: BI
+  sequencingDate: ''
+  files:
+  - fileName: HCC1143.bam
+    fileSize: 5236656816
+    readGroupIdInFile: D0RE2.2
+    fileMd5sum: 49552e9c3d342399410c289c5b21877d
+    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: D0RE2.3
+  libraryName: Pond-147580
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: D0RE2.3_11
+  insertSize: null
+  sequencingCenter: BI
+  sequencingDate: ''
+  files:
+  - fileName: HCC1143.bam
+    fileSize: 5236656816
+    readGroupIdInFile: D0RE2.3
+    fileMd5sum: 49552e9c3d342399410c289c5b21877d
+    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: D0RE2.4
+  libraryName: Pond-147580
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: D0RE2.4_12
+  insertSize: null
+  sequencingCenter: BI
+  sequencingDate: ''
+  files:
+  - fileName: HCC1143.bam
+    fileSize: 5236656816
+    readGroupIdInFile: D0RE2.4
+    fileMd5sum: 49552e9c3d342399410c289c5b21877d
+    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: D0RE2.5
+  libraryName: Pond-147580
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: D0RE2.5_13
+  insertSize: null
+  sequencingCenter: BI
+  sequencingDate: ''
+  files:
+  - fileName: HCC1143.bam
+    fileSize: 5236656816
+    readGroupIdInFile: D0RE2.5
+    fileMd5sum: 49552e9c3d342399410c289c5b21877d
+    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: D0RE2.6
+  libraryName: Pond-147580
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: D0RE2.6_14
+  insertSize: null
+  sequencingCenter: BI
+  sequencingDate: ''
+  files:
+  - fileName: HCC1143.bam
+    fileSize: 5236656816
+    readGroupIdInFile: D0RE2.6
+    fileMd5sum: 49552e9c3d342399410c289c5b21877d
+    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: D0RE2.7
+  libraryName: Pond-147580
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: D0RE2.7_15
+  insertSize: null
+  sequencingCenter: BI
+  sequencingDate: ''
+  files:
+  - fileName: HCC1143.bam
+    fileSize: 5236656816
+    readGroupIdInFile: D0RE2.7
+    fileMd5sum: 49552e9c3d342399410c289c5b21877d
+    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: D0RE2.8
+  libraryName: Pond-147580
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: D0RE2.8_16
+  insertSize: null
+  sequencingCenter: BI
+  sequencingDate: ''
+  files:
+  - fileName: HCC1143.bam
+    fileSize: 5236656816
+    readGroupIdInFile: D0RE2.8
+    fileMd5sum: 49552e9c3d342399410c289c5b21877d
+    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: D0RH0.1
+  libraryName: Pond-147580
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: D0RH0.1_17
+  insertSize: null
+  sequencingCenter: BI
+  sequencingDate: ''
+  files:
+  - fileName: HCC1143.bam
+    fileSize: 5236656816
+    readGroupIdInFile: D0RH0.1
+    fileMd5sum: 49552e9c3d342399410c289c5b21877d
+    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: D0RH0.2
+  libraryName: Pond-147580
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: D0RH0.2_18
+  insertSize: null
+  sequencingCenter: BI
+  sequencingDate: ''
+  files:
+  - fileName: HCC1143.bam
+    fileSize: 5236656816
+    readGroupIdInFile: D0RH0.2
+    fileMd5sum: 49552e9c3d342399410c289c5b21877d
+    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    referenceGenome: ''
+    fileType: BAM
