@@ -1,7 +1,7 @@
 study: TEST-CA
 donorSubmitterId: HCC1143
 specimenSubmitterId: HCC1143_control
-sampleSubmitterId: HCC1143
+sampleSubmitterId: HCC1143_BL
 donorGender: male
 aliquotId: ea0faeab-31b0-5087-96e3-a467fbd2f042
 specimenType: Normal - blood derived
