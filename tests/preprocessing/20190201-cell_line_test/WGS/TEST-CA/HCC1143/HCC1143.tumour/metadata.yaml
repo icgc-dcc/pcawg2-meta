@@ -21,7 +21,7 @@ readGroups:
     fileSize: 5236656816
     readGroupIdInFile: C0HVY.1
     fileMd5sum: 49552e9c3d342399410c289c5b21877d
-    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    path: file:////home/ubuntu/cellLine_bamFiles/HCC1143.bam
     referenceGenome: ''
     fileType: BAM
 - readGroupId: C0HVY.2
@@ -37,7 +37,7 @@ readGroups:
     fileSize: 5236656816
     readGroupIdInFile: C0HVY.2
     fileMd5sum: 49552e9c3d342399410c289c5b21877d
-    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    path: file:////home/ubuntu/cellLine_bamFiles/HCC1143.bam
     referenceGenome: ''
     fileType: BAM
 - readGroupId: C0HVY.3
@@ -53,7 +53,7 @@ readGroups:
     fileSize: 5236656816
     readGroupIdInFile: C0HVY.3
     fileMd5sum: 49552e9c3d342399410c289c5b21877d
-    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    path: file:////home/ubuntu/cellLine_bamFiles/HCC1143.bam
     referenceGenome: ''
     fileType: BAM
 - readGroupId: C0HVY.4
@@ -69,7 +69,7 @@ readGroups:
     fileSize: 5236656816
     readGroupIdInFile: C0HVY.4
     fileMd5sum: 49552e9c3d342399410c289c5b21877d
-    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    path: file:////home/ubuntu/cellLine_bamFiles/HCC1143.bam
     referenceGenome: ''
     fileType: BAM
 - readGroupId: C0HVY.5
@@ -85,7 +85,7 @@ readGroups:
     fileSize: 5236656816
     readGroupIdInFile: C0HVY.5
     fileMd5sum: 49552e9c3d342399410c289c5b21877d
-    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    path: file:////home/ubuntu/cellLine_bamFiles/HCC1143.bam
     referenceGenome: ''
     fileType: BAM
 - readGroupId: C0HVY.6
@@ -101,7 +101,7 @@ readGroups:
     fileSize: 5236656816
     readGroupIdInFile: C0HVY.6
     fileMd5sum: 49552e9c3d342399410c289c5b21877d
-    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    path: file:////home/ubuntu/cellLine_bamFiles/HCC1143.bam
     referenceGenome: ''
     fileType: BAM
 - readGroupId: C0HVY.7
@@ -117,7 +117,7 @@ readGroups:
     fileSize: 5236656816
     readGroupIdInFile: C0HVY.7
     fileMd5sum: 49552e9c3d342399410c289c5b21877d
-    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    path: file:////home/ubuntu/cellLine_bamFiles/HCC1143.bam
     referenceGenome: ''
     fileType: BAM
 - readGroupId: C0HVY.8
@@ -133,7 +133,7 @@ readGroups:
     fileSize: 5236656816
     readGroupIdInFile: C0HVY.8
     fileMd5sum: 49552e9c3d342399410c289c5b21877d
-    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    path: file:////home/ubuntu/cellLine_bamFiles/HCC1143.bam
     referenceGenome: ''
     fileType: BAM
 - readGroupId: D0RE2.1
@@ -149,7 +149,7 @@ readGroups:
     fileSize: 5236656816
     readGroupIdInFile: D0RE2.1
     fileMd5sum: 49552e9c3d342399410c289c5b21877d
-    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    path: file:////home/ubuntu/cellLine_bamFiles/HCC1143.bam
     referenceGenome: ''
     fileType: BAM
 - readGroupId: D0RE2.2
@@ -165,7 +165,7 @@ readGroups:
     fileSize: 5236656816
     readGroupIdInFile: D0RE2.2
     fileMd5sum: 49552e9c3d342399410c289c5b21877d
-    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    path: file:////home/ubuntu/cellLine_bamFiles/HCC1143.bam
     referenceGenome: ''
     fileType: BAM
 - readGroupId: D0RE2.3
@@ -181,7 +181,7 @@ readGroups:
     fileSize: 5236656816
     readGroupIdInFile: D0RE2.3
     fileMd5sum: 49552e9c3d342399410c289c5b21877d
-    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    path: file:////home/ubuntu/cellLine_bamFiles/HCC1143.bam
     referenceGenome: ''
     fileType: BAM
 - readGroupId: D0RE2.4
@@ -197,7 +197,7 @@ readGroups:
     fileSize: 5236656816
     readGroupIdInFile: D0RE2.4
     fileMd5sum: 49552e9c3d342399410c289c5b21877d
-    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    path: file:////home/ubuntu/cellLine_bamFiles/HCC1143.bam
     referenceGenome: ''
     fileType: BAM
 - readGroupId: D0RE2.5
@@ -213,7 +213,7 @@ readGroups:
     fileSize: 5236656816
     readGroupIdInFile: D0RE2.5
     fileMd5sum: 49552e9c3d342399410c289c5b21877d
-    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    path: file:////home/ubuntu/cellLine_bamFiles/HCC1143.bam
     referenceGenome: ''
     fileType: BAM
 - readGroupId: D0RE2.6
@@ -229,7 +229,7 @@ readGroups:
     fileSize: 5236656816
     readGroupIdInFile: D0RE2.6
     fileMd5sum: 49552e9c3d342399410c289c5b21877d
-    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    path: file:////home/ubuntu/cellLine_bamFiles/HCC1143.bam
     referenceGenome: ''
     fileType: BAM
 - readGroupId: D0RE2.7
@@ -245,7 +245,7 @@ readGroups:
     fileSize: 5236656816
     readGroupIdInFile: D0RE2.7
     fileMd5sum: 49552e9c3d342399410c289c5b21877d
-    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    path: file:////home/ubuntu/cellLine_bamFiles/HCC1143.bam
     referenceGenome: ''
     fileType: BAM
 - readGroupId: D0RE2.8
@@ -261,7 +261,7 @@ readGroups:
     fileSize: 5236656816
     readGroupIdInFile: D0RE2.8
     fileMd5sum: 49552e9c3d342399410c289c5b21877d
-    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    path: file:////home/ubuntu/cellLine_bamFiles/HCC1143.bam
     referenceGenome: ''
     fileType: BAM
 - readGroupId: D0RH0.1
@@ -277,7 +277,7 @@ readGroups:
     fileSize: 5236656816
     readGroupIdInFile: D0RH0.1
     fileMd5sum: 49552e9c3d342399410c289c5b21877d
-    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    path: file:////home/ubuntu/cellLine_bamFiles/HCC1143.bam
     referenceGenome: ''
     fileType: BAM
 - readGroupId: D0RH0.2
@@ -293,6 +293,6 @@ readGroups:
     fileSize: 5236656816
     readGroupIdInFile: D0RH0.2
     fileMd5sum: 49552e9c3d342399410c289c5b21877d
-    path: song://collaboratory/EGAR00001572251/afc5d8a0-3557-571a-8241-4d69433n27e3
+    path: file:////home/ubuntu/cellLine_bamFiles/HCC1143.bam
     referenceGenome: ''
     fileType: BAM
