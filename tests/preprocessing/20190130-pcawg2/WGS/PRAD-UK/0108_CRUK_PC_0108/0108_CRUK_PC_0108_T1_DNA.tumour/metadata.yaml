@@ -10,7 +10,7 @@ useCntl: "42b9d758-3f9a-5e8b-b8a9-841452083827"
 readGroups:
 - readGroupId: "1953585"
   libraryName: "PD14732a_1_38384"
-  sequencingPlatform: "HiSeq"
+  sequencingPlatform: "ILLUMINA"
   platformModel: ""
   platformUnit: "284_2"
   insertSize: 309
@@ -26,7 +26,7 @@ readGroups:
     fileType: "BAM"
 - readGroupId: "1953586"
   libraryName: "PD14732a_1_38384"
-  sequencingPlatform: "HiSeq"
+  sequencingPlatform: "ILLUMINA"
   platformModel: ""
   platformUnit: "284_3"
   insertSize: 309
@@ -42,7 +42,7 @@ readGroups:
     fileType: "BAM"
 - readGroupId: "1953595"
   libraryName: "PD14732a_1_38384"
-  sequencingPlatform: "HiSeq"
+  sequencingPlatform: "ILLUMINA"
   platformModel: ""
   platformUnit: "165_7"
   insertSize: 309
@@ -58,7 +58,7 @@ readGroups:
     fileType: "BAM"
 - readGroupId: "1953638"
   libraryName: "PD14732a_1_38384"
-  sequencingPlatform: "HiSeq"
+  sequencingPlatform: "ILLUMINA"
   platformModel: ""
   platformUnit: "284_1_1"
   insertSize: 309
@@ -74,7 +74,7 @@ readGroups:
     fileType: "BAM"
 - readGroupId: "1953667"
   libraryName: "PD14732a_1_38384"
-  sequencingPlatform: "HiSeq"
+  sequencingPlatform: "ILLUMINA"
   platformModel: ""
   platformUnit: "165_8"
   insertSize: 309
