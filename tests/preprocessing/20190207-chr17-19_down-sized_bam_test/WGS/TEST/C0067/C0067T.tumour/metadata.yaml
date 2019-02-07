@@ -6,7 +6,7 @@ donorGender: male
 aliquotId: 6bf4e5a3-0c26-5b2f-8a47-fc4500e86736
 specimenType: Primary tumour - solid tissue
 libraryStrategy: WGS
-useCntl: "N/A"
+useCntl: 4b11b807-c327-59d9-a644-939f033c106e
 readGroups:
 - readGroupId: CNG:B00DR0U_70JBUAAXX_5
   libraryName: WGS:CNG:B00DR0U
