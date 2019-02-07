@@ -15,7 +15,7 @@ readGroups:
   platformUnit: C0ENM.3_1
   insertSize: null
   sequencingCenter: BI
-  sequencingDate: ''
+  sequencingDate: '2018-01-01T00:00:00+00:00'
   files:
   - fileName: HCC1143_BL.bam
     fileSize: 4434581627
@@ -31,7 +31,7 @@ readGroups:
   platformUnit: C0ENM.4_2
   insertSize: null
   sequencingCenter: BI
-  sequencingDate: ''
+  sequencingDate: '2018-01-01T00:00:00+00:00'
   files:
   - fileName: HCC1143_BL.bam
     fileSize: 4434581627
@@ -47,7 +47,7 @@ readGroups:
   platformUnit: C0ENM.5_3
   insertSize: null
   sequencingCenter: BI
-  sequencingDate: ''
+  sequencingDate: '2018-01-01T00:00:00+00:00'
   files:
   - fileName: HCC1143_BL.bam
     fileSize: 4434581627
@@ -63,7 +63,7 @@ readGroups:
   platformUnit: C0ENM.6_4
   insertSize: null
   sequencingCenter: BI
-  sequencingDate: ''
+  sequencingDate: '2018-01-01T00:00:00+00:00'
   files:
   - fileName: HCC1143_BL.bam
     fileSize: 4434581627
@@ -79,7 +79,7 @@ readGroups:
   platformUnit: C0ENM.7_5
   insertSize: null
   sequencingCenter: BI
-  sequencingDate: ''
+  sequencingDate: '2018-01-01T00:00:00+00:00'
   files:
   - fileName: HCC1143_BL.bam
     fileSize: 4434581627
@@ -95,7 +95,7 @@ readGroups:
   platformUnit: C0ENM.8_6
   insertSize: null
   sequencingCenter: BI
-  sequencingDate: ''
+  sequencingDate: '2018-01-01T00:00:00+00:00'
   files:
   - fileName: HCC1143_BL.bam
     fileSize: 4434581627
@@ -111,7 +111,7 @@ readGroups:
   platformUnit: D0M9M.1_7
   insertSize: null
   sequencingCenter: BI
-  sequencingDate: ''
+  sequencingDate: '2018-01-01T00:00:00+00:00'
   files:
   - fileName: HCC1143_BL.bam
     fileSize: 4434581627
@@ -127,7 +127,7 @@ readGroups:
   platformUnit: D0M9M.2_8
   insertSize: null
   sequencingCenter: BI
-  sequencingDate: ''
+  sequencingDate: '2018-01-01T00:00:00+00:00'
   files:
   - fileName: HCC1143_BL.bam
     fileSize: 4434581627
@@ -143,7 +143,7 @@ readGroups:
   platformUnit: D0MBK.1_9
   insertSize: null
   sequencingCenter: BI
-  sequencingDate: ''
+  sequencingDate: '2018-01-01T00:00:00+00:00'
   files:
   - fileName: HCC1143_BL.bam
     fileSize: 4434581627
@@ -159,7 +159,7 @@ readGroups:
   platformUnit: D0MBK.2_10
   insertSize: null
   sequencingCenter: BI
-  sequencingDate: ''
+  sequencingDate: '2018-01-01T00:00:00+00:00'
   files:
   - fileName: HCC1143_BL.bam
     fileSize: 4434581627
@@ -175,7 +175,7 @@ readGroups:
   platformUnit: D0MBK.3_11
   insertSize: null
   sequencingCenter: BI
-  sequencingDate: ''
+  sequencingDate: '2018-01-01T00:00:00+00:00'
   files:
   - fileName: HCC1143_BL.bam
     fileSize: 4434581627
@@ -191,7 +191,7 @@ readGroups:
   platformUnit: D0MBK.4_12
   insertSize: null
   sequencingCenter: BI
-  sequencingDate: ''
+  sequencingDate: '2018-01-01T00:00:00+00:00'
   files:
   - fileName: HCC1143_BL.bam
     fileSize: 4434581627
@@ -207,7 +207,7 @@ readGroups:
   platformUnit: D0MBK.5_13
   insertSize: null
   sequencingCenter: BI
-  sequencingDate: ''
+  sequencingDate: '2018-01-01T00:00:00+00:00'
   files:
   - fileName: HCC1143_BL.bam
     fileSize: 4434581627
@@ -223,7 +223,7 @@ readGroups:
   platformUnit: D0MBK.6_14
   insertSize: null
   sequencingCenter: BI
-  sequencingDate: ''
+  sequencingDate: '2018-01-01T00:00:00+00:00'
   files:
   - fileName: HCC1143_BL.bam
     fileSize: 4434581627
@@ -239,7 +239,7 @@ readGroups:
   platformUnit: D0MBK.7_15
   insertSize: null
   sequencingCenter: BI
-  sequencingDate: ''
+  sequencingDate: '2018-01-01T00:00:00+00:00'
   files:
   - fileName: HCC1143_BL.bam
     fileSize: 4434581627
@@ -255,7 +255,7 @@ readGroups:
   platformUnit: D0MBK.8_16
   insertSize: null
   sequencingCenter: BI
-  sequencingDate: ''
+  sequencingDate: '2018-01-01T00:00:00+00:00'
   files:
   - fileName: HCC1143_BL.bam
     fileSize: 4434581627
