@@ -1,0 +1,122 @@
+study: TEST
+donorSubmitterId: C0067
+specimenSubmitterId: C0067_control
+sampleSubmitterId: C0067N
+donorGender: male
+aliquotId: 4b11b807-c327-59d9-a644-939f033c106e
+specimenType: Normal - blood derived
+libraryStrategy: WGS
+useCntl: "N/A"
+readGroups:
+- readGroupId: CNG:B00DR0Q_70JBUAAXX_2
+  libraryName: WGS:CNG:B00DR0Q
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: CNG:B00DR0Q_70JBUAAXX_2_1
+  insertSize: 272
+  sequencingCenter: CNG
+  sequencingDate: '2011-01-01T00:00:00+00:00'
+  files:
+  - fileName: 29f305e58827c835a7c6d515fa37753e.chr17-19.bam
+    fileSize: 4356685283
+    readGroupIdInFile: CNG:B00DR0Q_70JBUAAXX_2
+    fileMd5sum: fd5c3612a419674b51f6bf1c6a1ffa80
+    path: "file:///pcawg2-demo/somatic-calling-jobs/test-data/DO46965/29f305e58827c835a7c6d515fa37753e.chr17-19.bam"
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: CNG:B00DR0Q_A81DHDABXX_3
+  libraryName: WGS:CNG:B00DR0Q
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: CNG:B00DR0Q_A81DHDABXX_3_2
+  insertSize: 272
+  sequencingCenter: CNG
+  sequencingDate: '2011-01-01T00:00:00+00:00'
+  files:
+  - fileName: 29f305e58827c835a7c6d515fa37753e.chr17-19.bam
+    fileSize: 4356685283
+    readGroupIdInFile: CNG:B00DR0Q_A81DHDABXX_3
+    fileMd5sum: fd5c3612a419674b51f6bf1c6a1ffa80
+    path: "file:///pcawg2-demo/somatic-calling-jobs/test-data/DO46965/29f305e58827c835a7c6d515fa37753e.chr17-19.bam"
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: CNG:B00DR0Q_A81DHDABXX_4
+  libraryName: WGS:CNG:B00DR0Q
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: CNG:B00DR0Q_A81DHDABXX_4_3
+  insertSize: 272
+  sequencingCenter: CNG
+  sequencingDate: '2011-01-01T00:00:00+00:00'
+  files:
+  - fileName: 29f305e58827c835a7c6d515fa37753e.chr17-19.bam
+    fileSize: 4356685283
+    readGroupIdInFile: CNG:B00DR0Q_A81DHDABXX_4
+    fileMd5sum: fd5c3612a419674b51f6bf1c6a1ffa80
+    path: "file:///pcawg2-demo/somatic-calling-jobs/test-data/DO46965/29f305e58827c835a7c6d515fa37753e.chr17-19.bam"
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: CNG:B00DR0Q_B81943ABXX_1
+  libraryName: WGS:CNG:B00DR0Q
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: CNG:B00DR0Q_B81943ABXX_1_4
+  insertSize: 272
+  sequencingCenter: CNG
+  sequencingDate: '2011-01-01T00:00:00+00:00'
+  files:
+  - fileName: 29f305e58827c835a7c6d515fa37753e.chr17-19.bam
+    fileSize: 4356685283
+    readGroupIdInFile: CNG:B00DR0Q_B81943ABXX_1
+    fileMd5sum: fd5c3612a419674b51f6bf1c6a1ffa80
+    path: "file:///pcawg2-demo/somatic-calling-jobs/test-data/DO46965/29f305e58827c835a7c6d515fa37753e.chr17-19.bam"
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: CNG:B00DR0Q_B81943ABXX_2
+  libraryName: WGS:CNG:B00DR0Q
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: CNG:B00DR0Q_B81943ABXX_2_5
+  insertSize: 272
+  sequencingCenter: CNG
+  sequencingDate: '2011-01-01T00:00:00+00:00'
+  files:
+  - fileName: 29f305e58827c835a7c6d515fa37753e.chr17-19.bam
+    fileSize: 4356685283
+    readGroupIdInFile: CNG:B00DR0Q_B81943ABXX_2
+    fileMd5sum: fd5c3612a419674b51f6bf1c6a1ffa80
+    path: "file:///pcawg2-demo/somatic-calling-jobs/test-data/DO46965/29f305e58827c835a7c6d515fa37753e.chr17-19.bam"
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: CNG:B00DR0Q_B81CKMABXX_1
+  libraryName: WGS:CNG:B00DR0Q
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: CNG:B00DR0Q_B81CKMABXX_1_6
+  insertSize: 272
+  sequencingCenter: CNG
+  sequencingDate: '2011-01-01T00:00:00+00:00'
+  files:
+  - fileName: 29f305e58827c835a7c6d515fa37753e.chr17-19.bam
+    fileSize: 4356685283
+    readGroupIdInFile: CNG:B00DR0Q_B81CKMABXX_1
+    fileMd5sum: fd5c3612a419674b51f6bf1c6a1ffa80
+    path: "file:///pcawg2-demo/somatic-calling-jobs/test-data/DO46965/29f305e58827c835a7c6d515fa37753e.chr17-19.bam"
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: CNG:B00DR0Q_B81CKMABXX_2
+  libraryName: WGS:CNG:B00DR0Q
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: CNG:B00DR0Q_B81CKMABXX_2_7
+  insertSize: 272
+  sequencingCenter: CNG
+  sequencingDate: '2011-01-01T00:00:00+00:00'
+  files:
+  - fileName: 29f305e58827c835a7c6d515fa37753e.chr17-19.bam
+    fileSize: 4356685283
+    readGroupIdInFile: CNG:B00DR0Q_B81CKMABXX_2
+    fileMd5sum: fd5c3612a419674b51f6bf1c6a1ffa80
+    path: "file:///pcawg2-demo/somatic-calling-jobs/test-data/DO46965/29f305e58827c835a7c6d515fa37753e.chr17-19.bam"
+    referenceGenome: ''
+    fileType: BAM
