@@ -1,0 +1,234 @@
+study: PBCA-DE
+donorSubmitterId: ICGC_MB20
+specimenSubmitterId: ICGC_MB20
+sampleSubmitterId: ICGC_MB20
+donorGender: female
+aliquotId: e56e252b-0fc4-58cb-a292-8ddfa768803f
+specimenType: Primary tumour - solid tissue
+libraryStrategy: WGS
+useCntl: ec82cfd2-709e-5911-b6f6-39dd2594a738
+readGroups:
+- readGroupId: DKFZ:100918_SN225_0132_B205T5ABXX_2
+  libraryName: WGS:DKFZ:ICGC_MB20
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: DKFZ:100918_SN225_0132_B205T5ABXX_2
+  insertSize: 377
+  sequencingCenter: DKFZ
+  sequencingDate: '2010-10-19T00:00:00.000+00:00'
+  files:
+  - fileName: 0802bd84e169eb35cc5302d01e482c39.bam
+    fileSize: 112515805755
+    readGroupIdInFile: DKFZ:100918_SN225_0132_B205T5ABXX_2
+    fileMd5sum: 0802bd84e169eb35cc5302d01e482c39
+    path: song://collaboratory/09bb1921-25a9-4207-b451-28b26faec986/e5328528-661f-5270-a38b-d644ed7b2b0f
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: DKFZ:101109_SN225_0144_B808E5ABXX_7
+  libraryName: WGS:DKFZ:ICGC_MB20
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: DKFZ:101109_SN225_0144_B808E5ABXX_7
+  insertSize: 396
+  sequencingCenter: DKFZ
+  sequencingDate: '2010-12-02T00:00:00.000+00:00'
+  files:
+  - fileName: 0802bd84e169eb35cc5302d01e482c39.bam
+    fileSize: 112515805755
+    readGroupIdInFile: DKFZ:101109_SN225_0144_B808E5ABXX_7
+    fileMd5sum: 0802bd84e169eb35cc5302d01e482c39
+    path: song://collaboratory/09bb1921-25a9-4207-b451-28b26faec986/e5328528-661f-5270-a38b-d644ed7b2b0f
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: DKFZ:101126_SN225_0155_B80EYFABXX_6
+  libraryName: WGS:DKFZ:ICGC_MB20
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: DKFZ:101126_SN225_0155_B80EYFABXX_6
+  insertSize: 394
+  sequencingCenter: DKFZ
+  sequencingDate: '2010-12-20T00:00:00.000+00:00'
+  files:
+  - fileName: 0802bd84e169eb35cc5302d01e482c39.bam
+    fileSize: 112515805755
+    readGroupIdInFile: DKFZ:101126_SN225_0155_B80EYFABXX_6
+    fileMd5sum: 0802bd84e169eb35cc5302d01e482c39
+    path: song://collaboratory/09bb1921-25a9-4207-b451-28b26faec986/e5328528-661f-5270-a38b-d644ed7b2b0f
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: DKFZ:101228_SN225_0167_B80JJPABXX_1
+  libraryName: WGS:DKFZ:ICGC_MB20
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: DKFZ:101228_SN225_0167_B80JJPABXX_1
+  insertSize: 396
+  sequencingCenter: DKFZ
+  sequencingDate: '2011-01-13T00:00:00.000+00:00'
+  files:
+  - fileName: 0802bd84e169eb35cc5302d01e482c39.bam
+    fileSize: 112515805755
+    readGroupIdInFile: DKFZ:101228_SN225_0167_B80JJPABXX_1
+    fileMd5sum: 0802bd84e169eb35cc5302d01e482c39
+    path: song://collaboratory/09bb1921-25a9-4207-b451-28b26faec986/e5328528-661f-5270-a38b-d644ed7b2b0f
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: DKFZ:101228_SN225_0167_B80JJPABXX_2
+  libraryName: WGS:DKFZ:ICGC_MB20
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: DKFZ:101228_SN225_0167_B80JJPABXX_2
+  insertSize: 396
+  sequencingCenter: DKFZ
+  sequencingDate: '2011-01-13T00:00:00.000+00:00'
+  files:
+  - fileName: 0802bd84e169eb35cc5302d01e482c39.bam
+    fileSize: 112515805755
+    readGroupIdInFile: DKFZ:101228_SN225_0167_B80JJPABXX_2
+    fileMd5sum: 0802bd84e169eb35cc5302d01e482c39
+    path: song://collaboratory/09bb1921-25a9-4207-b451-28b26faec986/e5328528-661f-5270-a38b-d644ed7b2b0f
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: DKFZ:101228_SN225_0167_B80JJPABXX_3
+  libraryName: WGS:DKFZ:ICGC_MB20
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: DKFZ:101228_SN225_0167_B80JJPABXX_3
+  insertSize: 396
+  sequencingCenter: DKFZ
+  sequencingDate: '2011-01-13T00:00:00.000+00:00'
+  files:
+  - fileName: 0802bd84e169eb35cc5302d01e482c39.bam
+    fileSize: 112515805755
+    readGroupIdInFile: DKFZ:101228_SN225_0167_B80JJPABXX_3
+    fileMd5sum: 0802bd84e169eb35cc5302d01e482c39
+    path: song://collaboratory/09bb1921-25a9-4207-b451-28b26faec986/e5328528-661f-5270-a38b-d644ed7b2b0f
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: DKFZ:101228_SN225_0167_B80JJPABXX_4
+  libraryName: WGS:DKFZ:ICGC_MB20
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: DKFZ:101228_SN225_0167_B80JJPABXX_4
+  insertSize: 396
+  sequencingCenter: DKFZ
+  sequencingDate: '2011-01-13T00:00:00.000+00:00'
+  files:
+  - fileName: 0802bd84e169eb35cc5302d01e482c39.bam
+    fileSize: 112515805755
+    readGroupIdInFile: DKFZ:101228_SN225_0167_B80JJPABXX_4
+    fileMd5sum: 0802bd84e169eb35cc5302d01e482c39
+    path: song://collaboratory/09bb1921-25a9-4207-b451-28b26faec986/e5328528-661f-5270-a38b-d644ed7b2b0f
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: DKFZ:101228_SN225_0167_B80JJPABXX_5
+  libraryName: WGS:DKFZ:ICGC_MB20
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: DKFZ:101228_SN225_0167_B80JJPABXX_5
+  insertSize: 396
+  sequencingCenter: DKFZ
+  sequencingDate: '2011-01-13T00:00:00.000+00:00'
+  files:
+  - fileName: 0802bd84e169eb35cc5302d01e482c39.bam
+    fileSize: 112515805755
+    readGroupIdInFile: DKFZ:101228_SN225_0167_B80JJPABXX_5
+    fileMd5sum: 0802bd84e169eb35cc5302d01e482c39
+    path: song://collaboratory/09bb1921-25a9-4207-b451-28b26faec986/e5328528-661f-5270-a38b-d644ed7b2b0f
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: DKFZ:110203_SN225_0191_B81BJ2ABXX_6
+  libraryName: WGS:DKFZ:ICGC_MB20
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: DKFZ:110203_SN225_0191_B81BJ2ABXX_6
+  insertSize: 396
+  sequencingCenter: DKFZ
+  sequencingDate: '2011-02-21T00:00:00.000+00:00'
+  files:
+  - fileName: 0802bd84e169eb35cc5302d01e482c39.bam
+    fileSize: 112515805755
+    readGroupIdInFile: DKFZ:110203_SN225_0191_B81BJ2ABXX_6
+    fileMd5sum: 0802bd84e169eb35cc5302d01e482c39
+    path: song://collaboratory/09bb1921-25a9-4207-b451-28b26faec986/e5328528-661f-5270-a38b-d644ed7b2b0f
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: DKFZ:110203_SN225_0191_B81BJ2ABXX_7
+  libraryName: WGS:DKFZ:ICGC_MB20
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: DKFZ:110203_SN225_0191_B81BJ2ABXX_7
+  insertSize: 396
+  sequencingCenter: DKFZ
+  sequencingDate: '2011-02-21T00:00:00.000+00:00'
+  files:
+  - fileName: 0802bd84e169eb35cc5302d01e482c39.bam
+    fileSize: 112515805755
+    readGroupIdInFile: DKFZ:110203_SN225_0191_B81BJ2ABXX_7
+    fileMd5sum: 0802bd84e169eb35cc5302d01e482c39
+    path: song://collaboratory/09bb1921-25a9-4207-b451-28b26faec986/e5328528-661f-5270-a38b-d644ed7b2b0f
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: DKFZ:110224_SN486_0080_B81EEGABXX_4
+  libraryName: WGS:DKFZ:ICGC_MB20
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: DKFZ:110224_SN486_0080_B81EEGABXX_4
+  insertSize: 396
+  sequencingCenter: DKFZ
+  sequencingDate: '2011-03-14T00:00:00.000+00:00'
+  files:
+  - fileName: 0802bd84e169eb35cc5302d01e482c39.bam
+    fileSize: 112515805755
+    readGroupIdInFile: DKFZ:110224_SN486_0080_B81EEGABXX_4
+    fileMd5sum: 0802bd84e169eb35cc5302d01e482c39
+    path: song://collaboratory/09bb1921-25a9-4207-b451-28b26faec986/e5328528-661f-5270-a38b-d644ed7b2b0f
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: DKFZ:110224_SN486_0080_B81EEGABXX_5
+  libraryName: WGS:DKFZ:ICGC_MB20
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: DKFZ:110224_SN486_0080_B81EEGABXX_5
+  insertSize: 396
+  sequencingCenter: DKFZ
+  sequencingDate: '2011-03-14T00:00:00.000+00:00'
+  files:
+  - fileName: 0802bd84e169eb35cc5302d01e482c39.bam
+    fileSize: 112515805755
+    readGroupIdInFile: DKFZ:110224_SN486_0080_B81EEGABXX_5
+    fileMd5sum: 0802bd84e169eb35cc5302d01e482c39
+    path: song://collaboratory/09bb1921-25a9-4207-b451-28b26faec986/e5328528-661f-5270-a38b-d644ed7b2b0f
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: DKFZ:110311_HWUSI-EAS294_00041_FC_ID516_7
+  libraryName: WGS:DKFZ:ICGC_MB20
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: DKFZ:110311_HWUSI-EAS294_00041_FC_ID516_7
+  insertSize: 395
+  sequencingCenter: DKFZ
+  sequencingDate: '2011-03-25T00:00:00.000+00:00'
+  files:
+  - fileName: 0802bd84e169eb35cc5302d01e482c39.bam
+    fileSize: 112515805755
+    readGroupIdInFile: DKFZ:110311_HWUSI-EAS294_00041_FC_ID516_7
+    fileMd5sum: 0802bd84e169eb35cc5302d01e482c39
+    path: song://collaboratory/09bb1921-25a9-4207-b451-28b26faec986/e5328528-661f-5270-a38b-d644ed7b2b0f
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: DKFZ:110311_HWUSI-EAS294_00041_FC_ID516_8
+  libraryName: WGS:DKFZ:ICGC_MB20
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: DKFZ:110311_HWUSI-EAS294_00041_FC_ID516_8
+  insertSize: 395
+  sequencingCenter: DKFZ
+  sequencingDate: '2011-03-25T00:00:00.000+00:00'
+  files:
+  - fileName: 0802bd84e169eb35cc5302d01e482c39.bam
+    fileSize: 112515805755
+    readGroupIdInFile: DKFZ:110311_HWUSI-EAS294_00041_FC_ID516_8
+    fileMd5sum: 0802bd84e169eb35cc5302d01e482c39
+    path: song://collaboratory/09bb1921-25a9-4207-b451-28b26faec986/e5328528-661f-5270-a38b-d644ed7b2b0f
+    referenceGenome: ''
+    fileType: BAM

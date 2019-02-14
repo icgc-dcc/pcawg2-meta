@@ -1,0 +1,58 @@
+study: ESAD-UK
+donorSubmitterId: OCCAMS-ST-020
+specimenSubmitterId: OC-ST-020-B-F1
+sampleSubmitterId: LP6005333-DNA_C03
+donorGender: male
+aliquotId: b238d841-99f3-5762-9844-7d1edf4710a2
+specimenType: Normal - blood derived
+libraryStrategy: WGS
+useCntl: N/A
+readGroups:
+- readGroupId: CRUK-CI:LP6005333-DNA_C03A
+  libraryName: WGS:CRUK-CI:LP6005333-DNA_C03
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2000
+  platformUnit: CRUK-CI:LP6005333-DNA_C03_7
+  insertSize: 0
+  sequencingCenter: CRUK-CI
+  sequencingDate: '2014-07-26T00:00:00+00:00'
+  files:
+  - fileName: fdcb1bd7cffca69d15383ca9566c58e0.bam
+    fileSize: 111026223473
+    readGroupIdInFile: CRUK-CI:LP6005333-DNA_C03
+    fileMd5sum: fdcb1bd7cffca69d15383ca9566c58e0
+    path: song://collaboratory/c9c8fa5f-c551-4565-ba3d-43ceddc2fdeb/cd3f2965-98a5-55ce-a113-205701ce326a
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: CRUK-CI:LP6005333-DNA_C03B
+  libraryName: WGS:CRUK-CI:LP6005333-DNA_C03
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2000
+  platformUnit: CRUK-CI:LP6005333-DNA_C03_8
+  insertSize: 0
+  sequencingCenter: CRUK-CI
+  sequencingDate: '2014-07-26T00:00:00+00:00'
+  files:
+  - fileName: fdcb1bd7cffca69d15383ca9566c58e0.bam
+    fileSize: 111026223473
+    readGroupIdInFile: CRUK-CI:LP6005333-DNA_C03'
+    fileMd5sum: fdcb1bd7cffca69d15383ca9566c58e0
+    path: song://collaboratory/c9c8fa5f-c551-4565-ba3d-43ceddc2fdeb/cd3f2965-98a5-55ce-a113-205701ce326a
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: CRUK-CI:LP6005333-DNA_C03C
+  libraryName: WGS:CRUK-CI:LP6005333-DNA_C03
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2000
+  platformUnit: CRUK-CI:LP6005333-DNA_C03_1
+  insertSize: 0
+  sequencingCenter: CRUK-CI
+  sequencingDate: '2014-07-27T00:00:00+00:00'
+  files:
+  - fileName: fdcb1bd7cffca69d15383ca9566c58e0.bam
+    fileSize: 111026223473
+    readGroupIdInFile: CRUK-CI:LP6005333-DNA_C03''
+    fileMd5sum: fdcb1bd7cffca69d15383ca9566c58e0
+    path: song://collaboratory/c9c8fa5f-c551-4565-ba3d-43ceddc2fdeb/cd3f2965-98a5-55ce-a113-205701ce326a
+    referenceGenome: ''
+    fileType: BAM

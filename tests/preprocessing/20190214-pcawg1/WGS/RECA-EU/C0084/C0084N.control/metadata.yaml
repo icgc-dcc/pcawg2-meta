@@ -1,0 +1,106 @@
+study: RECA-EU
+donorSubmitterId: C0084
+specimenSubmitterId: C0084N
+sampleSubmitterId: C0084N
+donorGender: female
+aliquotId: 5a3b0069-2224-5d5c-bd34-615f21af7b7c
+specimenType: Normal - blood derived
+libraryStrategy: WGS
+useCntl: N/A
+readGroups:
+- readGroupId: CNG:B00EGD5_D0P8HACXX_3
+  libraryName: WGS:CNG:B00EGD5
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: CNG:D0P8HACXX_3
+  insertSize: 218
+  sequencingCenter: CNG
+  sequencingDate: '2011-01-01T00:00:00+00:00'
+  files:
+  - fileName: 5587d5aa03d0dfeca236d33102cf7fe9.bam
+    fileSize: 165879723344
+    readGroupIdInFile: CNG:B00EGD5_D0P8HACXX_3
+    fileMd5sum: 5587d5aa03d0dfeca236d33102cf7fe9
+    path: song://collaboratory/7fa95c05-aad3-482a-8313-75935ce7e03e/d0f812e9-c354-597b-8dd3-b85201c1d290
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: CNG:B00EGD5_D0P8HACXX_4
+  libraryName: WGS:CNG:B00EGD5
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: CNG:D0P8HACXX_4
+  insertSize: 218
+  sequencingCenter: CNG
+  sequencingDate: '2011-01-01T00:00:00+00:00'
+  files:
+  - fileName: 5587d5aa03d0dfeca236d33102cf7fe9.bam
+    fileSize: 165879723344
+    readGroupIdInFile: CNG:B00EGD5_D0P8HACXX_4
+    fileMd5sum: 5587d5aa03d0dfeca236d33102cf7fe9
+    path: song://collaboratory/7fa95c05-aad3-482a-8313-75935ce7e03e/d0f812e9-c354-597b-8dd3-b85201c1d290
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: CNG:B00EGD5_D0P8HACXX_5
+  libraryName: WGS:CNG:B00EGD5
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: CNG:D0P8HACXX_5
+  insertSize: 218
+  sequencingCenter: CNG
+  sequencingDate: '2011-01-01T00:00:00+00:00'
+  files:
+  - fileName: 5587d5aa03d0dfeca236d33102cf7fe9.bam
+    fileSize: 165879723344
+    readGroupIdInFile: CNG:B00EGD5_D0P8HACXX_5
+    fileMd5sum: 5587d5aa03d0dfeca236d33102cf7fe9
+    path: song://collaboratory/7fa95c05-aad3-482a-8313-75935ce7e03e/d0f812e9-c354-597b-8dd3-b85201c1d290
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: CNG:B00EGD5_D0TMJACXX_6
+  libraryName: WGS:CNG:B00EGD5
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: CNG:D0TMJACXX_6
+  insertSize: 218
+  sequencingCenter: CNG
+  sequencingDate: '2011-01-01T00:00:00+00:00'
+  files:
+  - fileName: 5587d5aa03d0dfeca236d33102cf7fe9.bam
+    fileSize: 165879723344
+    readGroupIdInFile: CNG:B00EGD5_D0TMJACXX_6
+    fileMd5sum: 5587d5aa03d0dfeca236d33102cf7fe9
+    path: song://collaboratory/7fa95c05-aad3-482a-8313-75935ce7e03e/d0f812e9-c354-597b-8dd3-b85201c1d290
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: CNG:B00EGD5_D0TMJACXX_7
+  libraryName: WGS:CNG:B00EGD5
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: CNG:D0TMJACXX_7
+  insertSize: 218
+  sequencingCenter: CNG
+  sequencingDate: '2011-01-01T00:00:00+00:00'
+  files:
+  - fileName: 5587d5aa03d0dfeca236d33102cf7fe9.bam
+    fileSize: 165879723344
+    readGroupIdInFile: CNG:B00EGD5_D0TMJACXX_7
+    fileMd5sum: 5587d5aa03d0dfeca236d33102cf7fe9
+    path: song://collaboratory/7fa95c05-aad3-482a-8313-75935ce7e03e/d0f812e9-c354-597b-8dd3-b85201c1d290
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: CNG:B00EGD5_D0TMJACXX_8
+  libraryName: WGS:CNG:B00EGD5
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: CNG:D0TMJACXX_8
+  insertSize: 218
+  sequencingCenter: CNG
+  sequencingDate: '2011-01-01T00:00:00+00:00'
+  files:
+  - fileName: 5587d5aa03d0dfeca236d33102cf7fe9.bam
+    fileSize: 165879723344
+    readGroupIdInFile: CNG:B00EGD5_D0TMJACXX_8
+    fileMd5sum: 5587d5aa03d0dfeca236d33102cf7fe9
+    path: song://collaboratory/7fa95c05-aad3-482a-8313-75935ce7e03e/d0f812e9-c354-597b-8dd3-b85201c1d290
+    referenceGenome: ''
+    fileType: BAM

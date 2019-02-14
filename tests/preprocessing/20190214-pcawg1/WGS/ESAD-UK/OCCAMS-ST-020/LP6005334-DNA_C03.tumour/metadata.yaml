@@ -1,0 +1,90 @@
+study: ESAD-UK
+donorSubmitterId: OCCAMS-ST-020
+specimenSubmitterId: OC-ST-020-S-T1
+sampleSubmitterId: LP6005334-DNA_C03
+donorGender: male
+aliquotId: 128eb20d-b511-559d-8d1b-fdf135bba8eb
+specimenType: Primary tumour - solid tissue
+libraryStrategy: WGS
+useCntl: b238d841-99f3-5762-9844-7d1edf4710a2
+readGroups:
+- readGroupId: CRUK-CI:LP6005334-DNA_C03_01
+  libraryName: WGS:CRUK-CI:LP6005334-DNA_C03
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2000
+  platformUnit: CRUK-CI:LP6005334-DNA_C03_1
+  insertSize: 0
+  sequencingCenter: CRUK-CI
+  sequencingDate: '2014-07-27T00:00:00+00:00'
+  files:
+  - fileName: 7875b5196f6b8b52847f99bf370aada0.bam
+    fileSize: 172347925951
+    readGroupIdInFile: CRUK-CI:LP6005334-DNA_C03
+    fileMd5sum: 7875b5196f6b8b52847f99bf370aada0
+    path: song://collaboratory/ce8fd3aa-31a0-441f-ae4a-8e3114942f16/1b35050c-07fe-5155-bcbc-3d4cbd2ad830
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: CRUK-CI:LP6005334-DNA_C03_02
+  libraryName: WGS:CRUK-CI:LP6005334-DNA_C03
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2000
+  platformUnit: CRUK-CI:LP6005334-DNA_C03_2
+  insertSize: 0
+  sequencingCenter: CRUK-CI
+  sequencingDate: '2014-07-27T00:00:00+00:00'
+  files:
+  - fileName: 7875b5196f6b8b52847f99bf370aada0.bam
+    fileSize: 172347925951
+    readGroupIdInFile: CRUK-CI:LP6005334-DNA_C03'
+    fileMd5sum: 7875b5196f6b8b52847f99bf370aada0
+    path: song://collaboratory/ce8fd3aa-31a0-441f-ae4a-8e3114942f16/1b35050c-07fe-5155-bcbc-3d4cbd2ad830
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: CRUK-CI:LP6005334-DNA_C03_03
+  libraryName: WGS:CRUK-CI:LP6005334-DNA_C03
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2000
+  platformUnit: CRUK-CI:LP6005334-DNA_C03_6
+  insertSize: 0
+  sequencingCenter: CRUK-CI
+  sequencingDate: '2014-07-27T00:00:00+00:00'
+  files:
+  - fileName: 7875b5196f6b8b52847f99bf370aada0.bam
+    fileSize: 172347925951
+    readGroupIdInFile: CRUK-CI:LP6005334-DNA_C03''
+    fileMd5sum: 7875b5196f6b8b52847f99bf370aada0
+    path: song://collaboratory/ce8fd3aa-31a0-441f-ae4a-8e3114942f16/1b35050c-07fe-5155-bcbc-3d4cbd2ad830
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: CRUK-CI:LP6005334-DNA_C03_04
+  libraryName: WGS:CRUK-CI:LP6005334-DNA_C03
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2000
+  platformUnit: CRUK-CI:LP6005334-DNA_C03_7
+  insertSize: 0
+  sequencingCenter: CRUK-CI
+  sequencingDate: '2014-07-27T00:00:00+00:00'
+  files:
+  - fileName: 7875b5196f6b8b52847f99bf370aada0.bam
+    fileSize: 172347925951
+    readGroupIdInFile: CRUK-CI:LP6005334-DNA_C03'''
+    fileMd5sum: 7875b5196f6b8b52847f99bf370aada0
+    path: song://collaboratory/ce8fd3aa-31a0-441f-ae4a-8e3114942f16/1b35050c-07fe-5155-bcbc-3d4cbd2ad830
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: CRUK-CI:LP6005334-DNA_C03_05
+  libraryName: WGS:CRUK-CI:LP6005334-DNA_C03
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2000
+  platformUnit: CRUK-CI:LP6005334-DNA_C03_8
+  insertSize: 0
+  sequencingCenter: CRUK-CI
+  sequencingDate: '2014-07-27T00:00:00+00:00'
+  files:
+  - fileName: 7875b5196f6b8b52847f99bf370aada0.bam
+    fileSize: 172347925951
+    readGroupIdInFile: CRUK-CI:LP6005334-DNA_C03''''
+    fileMd5sum: 7875b5196f6b8b52847f99bf370aada0
+    path: song://collaboratory/ce8fd3aa-31a0-441f-ae4a-8e3114942f16/1b35050c-07fe-5155-bcbc-3d4cbd2ad830
+    referenceGenome: ''
+    fileType: BAM
