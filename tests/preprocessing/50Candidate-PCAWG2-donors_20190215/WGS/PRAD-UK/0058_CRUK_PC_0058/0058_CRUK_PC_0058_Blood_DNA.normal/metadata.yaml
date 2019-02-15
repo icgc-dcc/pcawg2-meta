@@ -10,7 +10,7 @@ useCntl: N/A
 readGroups:
 - readGroupId: '1118298'
   libraryName: LP6005185-DNA_D05_lib_25582
-  sequencingPlatform: HiSeq
+  sequencingPlatform: ILLUMINA
   platformModel: ''
   platformUnit: HS2000-196_667_1
   insertSize: 300
@@ -26,7 +26,7 @@ readGroups:
     fileType: BAM
 - readGroupId: '1118405'
   libraryName: LP6005185-DNA_D05_lib_25582
-  sequencingPlatform: HiSeq
+  sequencingPlatform: ILLUMINA
   platformModel: ''
   platformUnit: HS2000-196_667_2
   insertSize: 300
@@ -42,7 +42,7 @@ readGroups:
     fileType: BAM
 - readGroupId: '1118426'
   libraryName: LP6005185-DNA_D05_lib_25582
-  sequencingPlatform: HiSeq
+  sequencingPlatform: ILLUMINA
   platformModel: ''
   platformUnit: HS2000-1321_75_8
   insertSize: 300
