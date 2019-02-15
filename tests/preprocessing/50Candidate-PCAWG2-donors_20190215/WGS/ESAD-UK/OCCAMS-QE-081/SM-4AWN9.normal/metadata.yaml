@@ -1,0 +1,26 @@
+study: ESAD-UK
+donorSubmitterId: OCCAMS-QE-081
+specimenSubmitterId: OC-QE-081-B-F1
+sampleSubmitterId: SM-4AWN9
+donorGender: male
+aliquotId: e6bc4cb3-f280-5f8a-bf82-9895b7338a16
+specimenType: Normal - blood derived
+libraryStrategy: WGS
+useCntl: N/A
+readGroups:
+- readGroupId: SM-4AWN9
+  libraryName: SM-4AWN9
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: ''
+  insertSize: null
+  sequencingCenter: ''
+  sequencingDate: ''
+  files:
+  - fileName: e74453032b38ba18b2d1063cc068ff35.SM-4AWN9.bam
+    fileSize: 96030246736
+    readGroupIdInFile: SM-4AWN9
+    fileMd5sum: e74453032b38ba18b2d1063cc068ff35
+    path: song://collaboratory/EGAR00001192996/b337fb7b-c9df-5355-b67b-ea89560742f9
+    referenceGenome: ''
+    fileType: BAM

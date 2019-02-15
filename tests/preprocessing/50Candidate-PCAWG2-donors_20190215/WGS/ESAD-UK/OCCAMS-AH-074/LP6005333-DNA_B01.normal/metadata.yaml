@@ -1,0 +1,26 @@
+study: ESAD-UK
+donorSubmitterId: OCCAMS-AH-074
+specimenSubmitterId: OC-AH-074-B-F1
+sampleSubmitterId: LP6005333-DNA_B01
+donorGender: female
+aliquotId: 4d9984e3-4929-5e1c-9bd9-22a19f41570d
+specimenType: Normal - blood derived
+libraryStrategy: WGS
+useCntl: N/A
+readGroups:
+- readGroupId: LP6005333-DNA_B01
+  libraryName: LP6005333-DNA_B01
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: ''
+  insertSize: null
+  sequencingCenter: ''
+  sequencingDate: ''
+  files:
+  - fileName: de0a563c71a6edaffb12ba9d75b7ceff.LP6005333-DNA_B01.bam
+    fileSize: 105779006576
+    readGroupIdInFile: LP6005333-DNA_B01
+    fileMd5sum: de0a563c71a6edaffb12ba9d75b7ceff
+    path: song://collaboratory/EGAR00001193142/601aa55d-1515-5265-9fcd-cac888b4ef32
+    referenceGenome: ''
+    fileType: BAM

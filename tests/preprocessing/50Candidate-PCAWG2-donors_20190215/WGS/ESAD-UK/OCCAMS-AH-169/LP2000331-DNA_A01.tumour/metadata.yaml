@@ -1,0 +1,26 @@
+study: ESAD-UK
+donorSubmitterId: OCCAMS-AH-169
+specimenSubmitterId: OC-AH-169-S-T2
+sampleSubmitterId: LP2000331-DNA_A01
+donorGender: male
+aliquotId: cd87931c-3ef3-5588-b02c-cca35e7eaa10
+specimenType: Primary tumour - solid tissue
+libraryStrategy: WGS
+useCntl: 45d03656-8e4f-5773-973a-09fa3c3fcf31
+readGroups:
+- readGroupId: LP2000331-DNA_A01
+  libraryName: LP2000331-DNA_A01
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: ''
+  insertSize: null
+  sequencingCenter: ''
+  sequencingDate: ''
+  files:
+  - fileName: c68f34af6d36225ed486b0bbdcc02722.LP2000331-DNA_A01.bam
+    fileSize: 134297530780
+    readGroupIdInFile: LP2000331-DNA_A01
+    fileMd5sum: c68f34af6d36225ed486b0bbdcc02722
+    path: song://collaboratory/EGAR00001253362/49656bcf-aff7-586e-ba5d-fa6d410daf5a
+    referenceGenome: ''
+    fileType: BAM

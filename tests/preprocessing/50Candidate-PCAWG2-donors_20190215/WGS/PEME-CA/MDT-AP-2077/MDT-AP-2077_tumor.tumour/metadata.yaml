@@ -1,0 +1,58 @@
+study: PEME-CA
+donorSubmitterId: MDT-AP-2077
+specimenSubmitterId: MDT-AP-2077_tumor_specimen
+sampleSubmitterId: MDT-AP-2077_tumor
+donorGender: ''
+aliquotId: 1435a4c0-ca44-5351-a65d-cb403da8398b
+specimenType: Primary tumour - solid tissue
+libraryStrategy: WGS
+useCntl: 36c52741-216a-5ba8-bba1-7ff0db35582d
+readGroups:
+- readGroupId: C1FE6ACXX_C1FE6ACXX.7
+  libraryName: tumor_MDT-AP-2077
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: ''
+  insertSize: null
+  sequencingCenter: ''
+  sequencingDate: ''
+  files:
+  - fileName: abb7582e4cee0ef73630673027aa9416.tumor_MDT-AP-2077_merged.mdup.bam
+    fileSize: 100122210477
+    readGroupIdInFile: C1FE6ACXX_C1FE6ACXX.7
+    fileMd5sum: abb7582e4cee0ef73630673027aa9416
+    path: song://collaboratory/EGAZ00001254405/c9e2f11f-86d4-5800-9edd-caeac3d32d19
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: D1NFGACXX_D1NFGACXX.5
+  libraryName: tumor_MDT-AP-2077
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: ''
+  insertSize: null
+  sequencingCenter: ''
+  sequencingDate: ''
+  files:
+  - fileName: abb7582e4cee0ef73630673027aa9416.tumor_MDT-AP-2077_merged.mdup.bam
+    fileSize: 100122210477
+    readGroupIdInFile: D1NFGACXX_D1NFGACXX.5
+    fileMd5sum: abb7582e4cee0ef73630673027aa9416
+    path: song://collaboratory/EGAZ00001254405/c9e2f11f-86d4-5800-9edd-caeac3d32d19
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: D1NFGACXX_D1NFGACXX.6
+  libraryName: tumor_MDT-AP-2077
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: ''
+  insertSize: null
+  sequencingCenter: ''
+  sequencingDate: ''
+  files:
+  - fileName: abb7582e4cee0ef73630673027aa9416.tumor_MDT-AP-2077_merged.mdup.bam
+    fileSize: 100122210477
+    readGroupIdInFile: D1NFGACXX_D1NFGACXX.6
+    fileMd5sum: abb7582e4cee0ef73630673027aa9416
+    path: song://collaboratory/EGAZ00001254405/c9e2f11f-86d4-5800-9edd-caeac3d32d19
+    referenceGenome: ''
+    fileType: BAM
