@@ -1,0 +1,58 @@
+study: PRAD-UK
+donorSubmitterId: 0058_CRUK_PC_0058
+specimenSubmitterId: 0058_CRUK_PC_0058_Blood
+sampleSubmitterId: 0058_CRUK_PC_0058_Blood_DNA
+donorGender: male
+aliquotId: 94256b2a-34c3-5cad-9816-edbcf43b5f24
+specimenType: Normal - blood derived
+libraryStrategy: WGS
+useCntl: N/A
+readGroups:
+- readGroupId: '1118298'
+  libraryName: LP6005185-DNA_D05_lib_25582
+  sequencingPlatform: HiSeq
+  platformModel: ''
+  platformUnit: HS2000-196_667_1
+  insertSize: 300
+  sequencingCenter: EXT
+  sequencingDate: ''
+  files:
+  - fileName: 7d425962333aec724fa4f81706144229.180186_icgc.bam
+    fileSize: 99696546276
+    readGroupIdInFile: '1118298'
+    fileMd5sum: 7d425962333aec724fa4f81706144229
+    path: song://collaboratory/EGAR00001270310/a74aacbe-0cf3-5bba-8409-7082c54f3ade
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '1118405'
+  libraryName: LP6005185-DNA_D05_lib_25582
+  sequencingPlatform: HiSeq
+  platformModel: ''
+  platformUnit: HS2000-196_667_2
+  insertSize: 300
+  sequencingCenter: EXT
+  sequencingDate: ''
+  files:
+  - fileName: 7d425962333aec724fa4f81706144229.180186_icgc.bam
+    fileSize: 99696546276
+    readGroupIdInFile: '1118405'
+    fileMd5sum: 7d425962333aec724fa4f81706144229
+    path: song://collaboratory/EGAR00001270310/a74aacbe-0cf3-5bba-8409-7082c54f3ade
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '1118426'
+  libraryName: LP6005185-DNA_D05_lib_25582
+  sequencingPlatform: HiSeq
+  platformModel: ''
+  platformUnit: HS2000-1321_75_8
+  insertSize: 300
+  sequencingCenter: EXT
+  sequencingDate: ''
+  files:
+  - fileName: 7d425962333aec724fa4f81706144229.180186_icgc.bam
+    fileSize: 99696546276
+    readGroupIdInFile: '1118426'
+    fileMd5sum: 7d425962333aec724fa4f81706144229
+    path: song://collaboratory/EGAR00001270310/a74aacbe-0cf3-5bba-8409-7082c54f3ade
+    referenceGenome: ''
+    fileType: BAM

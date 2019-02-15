@@ -1,0 +1,58 @@
+study: PRAD-UK
+donorSubmitterId: 0053_CRUK_PC_0053
+specimenSubmitterId: 0053_CRUK_PC_0053_T1
+sampleSubmitterId: 0053_CRUK_PC_0053_T1_DNA
+donorGender: male
+aliquotId: e3b28058-ce9d-56bd-abe1-f35eebfb916f
+specimenType: Primary tumour - solid tissue
+libraryStrategy: WGS
+useCntl: 376020a0-d08b-5fd9-b461-65d4426328eb
+readGroups:
+- readGroupId: '1171004'
+  libraryName: LP6005186-DNA_G04_lib_26891
+  sequencingPlatform: HiSeq
+  platformModel: ''
+  platformUnit: HS2000-1262_112_2
+  insertSize: 243
+  sequencingCenter: EXT
+  sequencingDate: ''
+  files:
+  - fileName: e370f7e57353787ce58e644a238a43c1.180175_icgc.bam
+    fileSize: 143055499154
+    readGroupIdInFile: '1171004'
+    fileMd5sum: e370f7e57353787ce58e644a238a43c1
+    path: song://collaboratory/EGAR00001272727/02e4c95b-02f3-56e6-a272-a1dd67f3b826
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '1171577'
+  libraryName: LP6005186-DNA_G04_lib_26891
+  sequencingPlatform: HiSeq
+  platformModel: ''
+  platformUnit: HS2000-1262_112_4
+  insertSize: 243
+  sequencingCenter: EXT
+  sequencingDate: ''
+  files:
+  - fileName: e370f7e57353787ce58e644a238a43c1.180175_icgc.bam
+    fileSize: 143055499154
+    readGroupIdInFile: '1171577'
+    fileMd5sum: e370f7e57353787ce58e644a238a43c1
+    path: song://collaboratory/EGAR00001272727/02e4c95b-02f3-56e6-a272-a1dd67f3b826
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '1174050'
+  libraryName: LP6005186-DNA_G04_lib_26891
+  sequencingPlatform: HiSeq
+  platformModel: ''
+  platformUnit: HS2000-1262_112_3
+  insertSize: 243
+  sequencingCenter: EXT
+  sequencingDate: ''
+  files:
+  - fileName: e370f7e57353787ce58e644a238a43c1.180175_icgc.bam
+    fileSize: 143055499154
+    readGroupIdInFile: '1174050'
+    fileMd5sum: e370f7e57353787ce58e644a238a43c1
+    path: song://collaboratory/EGAR00001272727/02e4c95b-02f3-56e6-a272-a1dd67f3b826
+    referenceGenome: ''
+    fileType: BAM

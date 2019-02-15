@@ -1,0 +1,74 @@
+study: PRAD-UK
+donorSubmitterId: 0036_CRUK_PC_0036
+specimenSubmitterId: 0036_CRUK_PC_0036_T1
+sampleSubmitterId: 0036_CRUK_PC_0036_T1_DNA
+donorGender: male
+aliquotId: 548c9499-c336-5715-9ac5-e80f26396ba2
+specimenType: Primary tumour - solid tissue
+libraryStrategy: WGS
+useCntl: 96df08ab-05cd-5b65-b170-3f5dba5e23bd
+readGroups:
+- readGroupId: '1170986'
+  libraryName: LP6005186-DNA_F02_lib_26879
+  sequencingPlatform: HiSeq
+  platformModel: ''
+  platformUnit: HS2000-9192_480_1
+  insertSize: 240
+  sequencingCenter: EXT
+  sequencingDate: ''
+  files:
+  - fileName: 907783360b463ef1733fd5d4932eb56b.180143_icgc.bam
+    fileSize: 211305234110
+    readGroupIdInFile: '1170986'
+    fileMd5sum: 907783360b463ef1733fd5d4932eb56b
+    path: song://collaboratory/EGAR00001272634/ee13d950-c2a5-5890-8aea-93ee06c430f3
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '1171388'
+  libraryName: LP6005186-DNA_F02_lib_26879
+  sequencingPlatform: HiSeq
+  platformModel: ''
+  platformUnit: HS2000-9192_480_2
+  insertSize: 240
+  sequencingCenter: EXT
+  sequencingDate: ''
+  files:
+  - fileName: 907783360b463ef1733fd5d4932eb56b.180143_icgc.bam
+    fileSize: 211305234110
+    readGroupIdInFile: '1171388'
+    fileMd5sum: 907783360b463ef1733fd5d4932eb56b
+    path: song://collaboratory/EGAR00001272634/ee13d950-c2a5-5890-8aea-93ee06c430f3
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '1171392'
+  libraryName: LP6005186-DNA_F02_lib_26879
+  sequencingPlatform: HiSeq
+  platformModel: ''
+  platformUnit: HS2000-9192_480_4
+  insertSize: 240
+  sequencingCenter: EXT
+  sequencingDate: ''
+  files:
+  - fileName: 907783360b463ef1733fd5d4932eb56b.180143_icgc.bam
+    fileSize: 211305234110
+    readGroupIdInFile: '1171392'
+    fileMd5sum: 907783360b463ef1733fd5d4932eb56b
+    path: song://collaboratory/EGAR00001272634/ee13d950-c2a5-5890-8aea-93ee06c430f3
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '1174030'
+  libraryName: LP6005186-DNA_F02_lib_26879
+  sequencingPlatform: HiSeq
+  platformModel: ''
+  platformUnit: HS2000-907_266_3
+  insertSize: 240
+  sequencingCenter: EXT
+  sequencingDate: ''
+  files:
+  - fileName: 907783360b463ef1733fd5d4932eb56b.180143_icgc.bam
+    fileSize: 211305234110
+    readGroupIdInFile: '1174030'
+    fileMd5sum: 907783360b463ef1733fd5d4932eb56b
+    path: song://collaboratory/EGAR00001272634/ee13d950-c2a5-5890-8aea-93ee06c430f3
+    referenceGenome: ''
+    fileType: BAM

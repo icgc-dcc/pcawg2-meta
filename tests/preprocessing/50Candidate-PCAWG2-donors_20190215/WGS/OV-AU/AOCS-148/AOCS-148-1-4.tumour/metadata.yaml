@@ -1,0 +1,74 @@
+study: OV-AU
+donorSubmitterId: AOCS-148
+specimenSubmitterId: AOCS-148-1
+sampleSubmitterId: AOCS-148-1-4
+donorGender: female
+aliquotId: c499f103-8f77-54e1-90d5-ddfe80394181
+specimenType: Primary tumour - solid tissue
+libraryStrategy: WGS
+useCntl: 97123430-ca52-5f3f-aa73-36ef0314ab33
+readGroups:
+- readGroupId: '20130312105637575'
+  libraryName: LP6005312-DNA_B01
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: lane_1.nobc
+  insertSize: null
+  sequencingCenter: QCMG
+  sequencingDate: ''
+  files:
+  - fileName: 37c1119e80ccea0d61a1f263b4c90970.IcgcOvarian_AOCS148_1DNA_7PrimaryTumour_ICGCDBPC20130205168_IlluminaIGNOutsourcing_NoCapture_Bwa_HiSeq.jpearson.bam
+    fileSize: 141263639819
+    readGroupIdInFile: '20130312105637575'
+    fileMd5sum: 37c1119e80ccea0d61a1f263b4c90970
+    path: song://collaboratory/EGAZ00001018764/d64b282f-d157-5aff-be49-35e7886556bb
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '20130312011945799'
+  libraryName: LP6005312-DNA_B01
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: lane_3.nobc
+  insertSize: null
+  sequencingCenter: QCMG
+  sequencingDate: ''
+  files:
+  - fileName: 37c1119e80ccea0d61a1f263b4c90970.IcgcOvarian_AOCS148_1DNA_7PrimaryTumour_ICGCDBPC20130205168_IlluminaIGNOutsourcing_NoCapture_Bwa_HiSeq.jpearson.bam
+    fileSize: 141263639819
+    readGroupIdInFile: '20130312011945799'
+    fileMd5sum: 37c1119e80ccea0d61a1f263b4c90970
+    path: song://collaboratory/EGAZ00001018764/d64b282f-d157-5aff-be49-35e7886556bb
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '20130312112837963'
+  libraryName: LP6005312-DNA_B01
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: lane_2.nobc
+  insertSize: null
+  sequencingCenter: QCMG
+  sequencingDate: ''
+  files:
+  - fileName: 37c1119e80ccea0d61a1f263b4c90970.IcgcOvarian_AOCS148_1DNA_7PrimaryTumour_ICGCDBPC20130205168_IlluminaIGNOutsourcing_NoCapture_Bwa_HiSeq.jpearson.bam
+    fileSize: 141263639819
+    readGroupIdInFile: '20130312112837963'
+    fileMd5sum: 37c1119e80ccea0d61a1f263b4c90970
+    path: song://collaboratory/EGAZ00001018764/d64b282f-d157-5aff-be49-35e7886556bb
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '20130312101737681'
+  libraryName: LP6005312-DNA_B01
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: lane_4.nobc
+  insertSize: null
+  sequencingCenter: QCMG
+  sequencingDate: ''
+  files:
+  - fileName: 37c1119e80ccea0d61a1f263b4c90970.IcgcOvarian_AOCS148_1DNA_7PrimaryTumour_ICGCDBPC20130205168_IlluminaIGNOutsourcing_NoCapture_Bwa_HiSeq.jpearson.bam
+    fileSize: 141263639819
+    readGroupIdInFile: '20130312101737681'
+    fileMd5sum: 37c1119e80ccea0d61a1f263b4c90970
+    path: song://collaboratory/EGAZ00001018764/d64b282f-d157-5aff-be49-35e7886556bb
+    referenceGenome: ''
+    fileType: BAM
