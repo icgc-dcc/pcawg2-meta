@@ -1,0 +1,58 @@
+study: OV-AU
+donorSubmitterId: AOCS-123
+specimenSubmitterId: AOCS-123-9
+sampleSubmitterId: AOCS-123-5-1
+donorGender: female
+aliquotId: 5cc83be3-9502-5169-b59a-e4519b86c48b
+specimenType: Normal - blood derived
+libraryStrategy: WGS
+useCntl: N/A
+readGroups:
+- readGroupId: '20130224013413886'
+  libraryName: LP6005272-DNA_F06
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: lane_7.nobc
+  insertSize: null
+  sequencingCenter: QCMG
+  sequencingDate: ''
+  files:
+  - fileName: a439270639ac5785a638ca24c2f86a6d.IcgcOvarian_AOCS123_1DNA_1NormalBlood_ICGCDBPC20130205103_IlluminaIGNOutsourcing_NoCapture_Bwa_HiSeq.jpearson.bam
+    fileSize: 99032599334
+    readGroupIdInFile: '20130224013413886'
+    fileMd5sum: a439270639ac5785a638ca24c2f86a6d
+    path: song://collaboratory/EGAZ00001018672/bcd97b00-3d66-556c-86a0-b7366eb916e0
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '20130224024059917'
+  libraryName: LP6005272-DNA_F06
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: lane_8.nobc
+  insertSize: null
+  sequencingCenter: QCMG
+  sequencingDate: ''
+  files:
+  - fileName: a439270639ac5785a638ca24c2f86a6d.IcgcOvarian_AOCS123_1DNA_1NormalBlood_ICGCDBPC20130205103_IlluminaIGNOutsourcing_NoCapture_Bwa_HiSeq.jpearson.bam
+    fileSize: 99032599334
+    readGroupIdInFile: '20130224024059917'
+    fileMd5sum: a439270639ac5785a638ca24c2f86a6d
+    path: song://collaboratory/EGAZ00001018672/bcd97b00-3d66-556c-86a0-b7366eb916e0
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2013022402483765'
+  libraryName: LP6005272-DNA_F06
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: lane_6.nobc
+  insertSize: null
+  sequencingCenter: QCMG
+  sequencingDate: ''
+  files:
+  - fileName: a439270639ac5785a638ca24c2f86a6d.IcgcOvarian_AOCS123_1DNA_1NormalBlood_ICGCDBPC20130205103_IlluminaIGNOutsourcing_NoCapture_Bwa_HiSeq.jpearson.bam
+    fileSize: 99032599334
+    readGroupIdInFile: '2013022402483765'
+    fileMd5sum: a439270639ac5785a638ca24c2f86a6d
+    path: song://collaboratory/EGAZ00001018672/bcd97b00-3d66-556c-86a0-b7366eb916e0
+    referenceGenome: ''
+    fileType: BAM
