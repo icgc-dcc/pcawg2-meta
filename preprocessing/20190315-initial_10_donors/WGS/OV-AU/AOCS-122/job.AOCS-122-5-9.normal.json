@@ -1,5 +1,5 @@
 {
    "name": "OV-AU.AOCS-122.AOCS-122-5-9.normal",
-   "metadata_yaml": "file:///home/ubuntu/pcawg2-meta/preprocessing/20190315-initial_10_donors/WGS/OV-AU/AOCS-122/AOCS-122-5-9.normal/metadata.yaml",
-   "cgc_project_name": "OV-AU"
+   "metadata_yaml": "[metadata.yaml]https://raw.githubusercontent.com/icgc-dcc/pcawg2-meta/master/preprocessing/20190315-initial_10_donors/WGS/OV-AU/AOCS-122/AOCS-122-5-9.normal/metadata.yaml",
+   "cgc_project_name": "jun-junzhang/pcawg2"
 }

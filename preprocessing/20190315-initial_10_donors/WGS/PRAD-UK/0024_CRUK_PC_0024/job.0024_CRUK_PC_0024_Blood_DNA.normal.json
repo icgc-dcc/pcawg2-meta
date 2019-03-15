@@ -1,5 +1,5 @@
 {
    "name": "PRAD-UK.0024_CRUK_PC_0024.0024_CRUK_PC_0024_Blood_DNA.normal",
-   "metadata_yaml": "file:///home/ubuntu/pcawg2-meta/preprocessing/20190315-initial_10_donors/WGS/PRAD-UK/0024_CRUK_PC_0024/0024_CRUK_PC_0024_Blood_DNA.normal/metadata.yaml",
-   "cgc_project_name": "PRAD-UK"
+   "metadata_yaml": "[metadata.yaml]https://raw.githubusercontent.com/icgc-dcc/pcawg2-meta/master/preprocessing/20190315-initial_10_donors/WGS/PRAD-UK/0024_CRUK_PC_0024/0024_CRUK_PC_0024_Blood_DNA.normal/metadata.yaml",
+   "cgc_project_name": "jun-junzhang/pcawg2"
 }
