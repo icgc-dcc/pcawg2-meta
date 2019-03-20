@@ -1,0 +1,58 @@
+study: PRAD-UK
+donorSubmitterId: 0038_CRUK_PC_0038
+specimenSubmitterId: 0038_CRUK_PC_0038_Blood
+sampleSubmitterId: 0038_CRUK_PC_0038_Blood_DNA
+donorGender: male
+aliquotId: f93bb215-4b45-57db-93d1-b2b8089431ed
+specimenType: Normal - blood derived
+libraryStrategy: WGS
+useCntl: N/A
+readGroups:
+- readGroupId: '1129328'
+  libraryName: LP6005185-DNA_H02_lib_25980
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: HS2000-1241_108_7
+  insertSize: 304
+  sequencingCenter: EXT
+  sequencingDate: ''
+  files:
+  - fileName: 92658a1ee6793db44a9f1a48b3648e9d.180148_icgc.bam
+    fileSize: 135191058591
+    readGroupIdInFile: '1129328'
+    fileMd5sum: 92658a1ee6793db44a9f1a48b3648e9d
+    path: song://collaboratory/EGAR00001270619/a6a1247d-ac65-53af-b92b-54159b040394
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '1129379'
+  libraryName: LP6005185-DNA_H02_lib_25980
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: HS2000-1241_108_8
+  insertSize: 304
+  sequencingCenter: EXT
+  sequencingDate: ''
+  files:
+  - fileName: 92658a1ee6793db44a9f1a48b3648e9d.180148_icgc.bam
+    fileSize: 135191058591
+    readGroupIdInFile: '1129379'
+    fileMd5sum: 92658a1ee6793db44a9f1a48b3648e9d
+    path: song://collaboratory/EGAR00001270619/a6a1247d-ac65-53af-b92b-54159b040394
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '1129418'
+  libraryName: LP6005185-DNA_H02_lib_25980
+  sequencingPlatform: ILLUMINA
+  platformModel: ''
+  platformUnit: HS2000-907_246_8
+  insertSize: 304
+  sequencingCenter: EXT
+  sequencingDate: ''
+  files:
+  - fileName: 92658a1ee6793db44a9f1a48b3648e9d.180148_icgc.bam
+    fileSize: 135191058591
+    readGroupIdInFile: '1129418'
+    fileMd5sum: 92658a1ee6793db44a9f1a48b3648e9d
+    path: song://collaboratory/EGAR00001270619/a6a1247d-ac65-53af-b92b-54159b040394
+    referenceGenome: ''
+    fileType: BAM
