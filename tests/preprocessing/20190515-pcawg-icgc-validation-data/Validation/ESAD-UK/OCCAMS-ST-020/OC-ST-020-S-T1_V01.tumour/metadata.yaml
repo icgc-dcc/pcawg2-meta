@@ -1,0 +1,106 @@
+study: ESAD-UK
+donorSubmitterId: OCCAMS-ST-020
+specimenSubmitterId: OC-ST-020-S-T1
+sampleSubmitterId: OC-ST-020-S-T1_V01
+donorGender: male
+aliquotId: 47e3277e-0e6c-5d97-8b49-3705614dbe5b
+specimenType: Primary tumour - solid tissue
+libraryStrategy: Validation
+useCntl: a96a8432-71b5-5d23-8e29-628c2e896aa1
+readGroups:
+- readGroupId: '2895499955'
+  libraryName: VALIDATION:WUGSC:H_SA-OC-ST-020-LP6005334-DNA_C03-lg2-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C6T7KACXX_4-AACAAAAC-AACAAAAC
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: f32d40ebb8783fb5e3e20193663f3daa.bam
+    fileSize: 18845544411
+    readGroupIdInFile: '2895499955'
+    fileMd5sum: f32d40ebb8783fb5e3e20193663f3daa
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/f32d40ebb8783fb5e3e20193663f3daa.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895499956'
+  libraryName: VALIDATION:WUGSC:H_SA-OC-ST-020-LP6005334-DNA_C03-lg1-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C6T7KACXX_4-AAGACTTA-AAGACTTA
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: f32d40ebb8783fb5e3e20193663f3daa.bam
+    fileSize: 18845544411
+    readGroupIdInFile: '2895499956'
+    fileMd5sum: f32d40ebb8783fb5e3e20193663f3daa
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/f32d40ebb8783fb5e3e20193663f3daa.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895500031'
+  libraryName: VALIDATION:WUGSC:H_SA-OC-ST-020-LP6005334-DNA_C03-lg1-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C6T7KACXX_6-AAGACTTA-AAGACTTA
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: f32d40ebb8783fb5e3e20193663f3daa.bam
+    fileSize: 18845544411
+    readGroupIdInFile: '2895500031'
+    fileMd5sum: f32d40ebb8783fb5e3e20193663f3daa
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/f32d40ebb8783fb5e3e20193663f3daa.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895500060'
+  libraryName: VALIDATION:WUGSC:H_SA-OC-ST-020-LP6005334-DNA_C03-lg2-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C6T7KACXX_6-AACAAAAC-AACAAAAC
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: f32d40ebb8783fb5e3e20193663f3daa.bam
+    fileSize: 18845544411
+    readGroupIdInFile: '2895500060'
+    fileMd5sum: f32d40ebb8783fb5e3e20193663f3daa
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/f32d40ebb8783fb5e3e20193663f3daa.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895500082'
+  libraryName: VALIDATION:WUGSC:H_SA-OC-ST-020-LP6005334-DNA_C03-lg1-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C6T7KACXX_5-AAGACTTA-AAGACTTA
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: f32d40ebb8783fb5e3e20193663f3daa.bam
+    fileSize: 18845544411
+    readGroupIdInFile: '2895500082'
+    fileMd5sum: f32d40ebb8783fb5e3e20193663f3daa
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/f32d40ebb8783fb5e3e20193663f3daa.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895500083'
+  libraryName: VALIDATION:WUGSC:H_SA-OC-ST-020-LP6005334-DNA_C03-lg2-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C6T7KACXX_5-AACAAAAC-AACAAAAC
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: f32d40ebb8783fb5e3e20193663f3daa.bam
+    fileSize: 18845544411
+    readGroupIdInFile: '2895500083'
+    fileMd5sum: f32d40ebb8783fb5e3e20193663f3daa
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/f32d40ebb8783fb5e3e20193663f3daa.bam
+    referenceGenome: ''
+    fileType: BAM

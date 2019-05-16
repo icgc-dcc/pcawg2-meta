@@ -1,0 +1,106 @@
+study: PRAD-UK
+donorSubmitterId: 0082_CRUK_PC_0082
+specimenSubmitterId: 0082_CRUK_PC_0082_T1
+sampleSubmitterId: 0082_CRUK_PC_0082_T1_V01
+donorGender: male
+aliquotId: d09a5162-87ae-5715-bfcf-74fc22377672
+specimenType: Primary tumour - solid tissue
+libraryStrategy: Validation
+useCntl: 16ecdee9-7be3-58f7-954c-5944e9a2638f
+readGroups:
+- readGroupId: '2895499580'
+  libraryName: VALIDATION:WUGSC:H_SA-0082_CRUK_PC_0082-0082_CRUK_PC_0082_T1-lg1-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C72CRACXX_4-GATATACG-GATATACG
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: f018b2e00718651a60b64ffd5e55335e.bam
+    fileSize: 15429242190
+    readGroupIdInFile: '2895499580'
+    fileMd5sum: f018b2e00718651a60b64ffd5e55335e
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/f018b2e00718651a60b64ffd5e55335e.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895499590'
+  libraryName: VALIDATION:WUGSC:H_SA-0082_CRUK_PC_0082-0082_CRUK_PC_0082_T1-lg2-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C72CRACXX_6-GATGCTAC-GATGCTAC
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: f018b2e00718651a60b64ffd5e55335e.bam
+    fileSize: 15429242190
+    readGroupIdInFile: '2895499590'
+    fileMd5sum: f018b2e00718651a60b64ffd5e55335e
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/f018b2e00718651a60b64ffd5e55335e.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895499694'
+  libraryName: VALIDATION:WUGSC:H_SA-0082_CRUK_PC_0082-0082_CRUK_PC_0082_T1-lg1-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C72CRACXX_5-GATATACG-GATATACG
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: f018b2e00718651a60b64ffd5e55335e.bam
+    fileSize: 15429242190
+    readGroupIdInFile: '2895499694'
+    fileMd5sum: f018b2e00718651a60b64ffd5e55335e
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/f018b2e00718651a60b64ffd5e55335e.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895499697'
+  libraryName: VALIDATION:WUGSC:H_SA-0082_CRUK_PC_0082-0082_CRUK_PC_0082_T1-lg1-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C72CRACXX_6-GATATACG-GATATACG
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: f018b2e00718651a60b64ffd5e55335e.bam
+    fileSize: 15429242190
+    readGroupIdInFile: '2895499697'
+    fileMd5sum: f018b2e00718651a60b64ffd5e55335e
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/f018b2e00718651a60b64ffd5e55335e.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895499700'
+  libraryName: VALIDATION:WUGSC:H_SA-0082_CRUK_PC_0082-0082_CRUK_PC_0082_T1-lg2-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C72CRACXX_5-GATGCTAC-GATGCTAC
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: f018b2e00718651a60b64ffd5e55335e.bam
+    fileSize: 15429242190
+    readGroupIdInFile: '2895499700'
+    fileMd5sum: f018b2e00718651a60b64ffd5e55335e
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/f018b2e00718651a60b64ffd5e55335e.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895499825'
+  libraryName: VALIDATION:WUGSC:H_SA-0082_CRUK_PC_0082-0082_CRUK_PC_0082_T1-lg2-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C72CRACXX_4-GATGCTAC-GATGCTAC
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: f018b2e00718651a60b64ffd5e55335e.bam
+    fileSize: 15429242190
+    readGroupIdInFile: '2895499825'
+    fileMd5sum: f018b2e00718651a60b64ffd5e55335e
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/f018b2e00718651a60b64ffd5e55335e.bam
+    referenceGenome: ''
+    fileType: BAM

@@ -1,0 +1,106 @@
+study: ESAD-UK
+donorSubmitterId: OCCAMS-AH-131
+specimenSubmitterId: OC-AH-131-B-F1
+sampleSubmitterId: OC-AH-131-B-F1_V01
+donorGender: male
+aliquotId: 34dd1f94-5ec4-5ed0-b9bc-de3bc3e3b05c
+specimenType: Normal - blood derived
+libraryStrategy: Validation
+useCntl: N/A
+readGroups:
+- readGroupId: '2895499922'
+  libraryName: VALIDATION:WUGSC:H_SA-OC-AH-131-LP6005408-DNA_D02-lg2-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C6T7KACXX_3-TGACCACG-TGACCACG
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: aea37ddf593161721ab64ba509f91d79.bam
+    fileSize: 14393526220
+    readGroupIdInFile: '2895499922'
+    fileMd5sum: aea37ddf593161721ab64ba509f91d79
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/aea37ddf593161721ab64ba509f91d79.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895499929'
+  libraryName: VALIDATION:WUGSC:H_SA-OC-AH-131-LP6005408-DNA_D02-lg1-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C6T7KACXX_1-TTAGGCGA-TTAGGCGA
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: aea37ddf593161721ab64ba509f91d79.bam
+    fileSize: 14393526220
+    readGroupIdInFile: '2895499929'
+    fileMd5sum: aea37ddf593161721ab64ba509f91d79
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/aea37ddf593161721ab64ba509f91d79.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895499995'
+  libraryName: VALIDATION:WUGSC:H_SA-OC-AH-131-LP6005408-DNA_D02-lg1-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C6T7KACXX_3-TTAGGCGA-TTAGGCGA
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: aea37ddf593161721ab64ba509f91d79.bam
+    fileSize: 14393526220
+    readGroupIdInFile: '2895499995'
+    fileMd5sum: aea37ddf593161721ab64ba509f91d79
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/aea37ddf593161721ab64ba509f91d79.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895499996'
+  libraryName: VALIDATION:WUGSC:H_SA-OC-AH-131-LP6005408-DNA_D02-lg2-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C6T7KACXX_1-TGACCACG-TGACCACG
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: aea37ddf593161721ab64ba509f91d79.bam
+    fileSize: 14393526220
+    readGroupIdInFile: '2895499996'
+    fileMd5sum: aea37ddf593161721ab64ba509f91d79
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/aea37ddf593161721ab64ba509f91d79.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895500048'
+  libraryName: VALIDATION:WUGSC:H_SA-OC-AH-131-LP6005408-DNA_D02-lg2-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C6T7KACXX_2-TGACCACG-TGACCACG
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: aea37ddf593161721ab64ba509f91d79.bam
+    fileSize: 14393526220
+    readGroupIdInFile: '2895500048'
+    fileMd5sum: aea37ddf593161721ab64ba509f91d79
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/aea37ddf593161721ab64ba509f91d79.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895500075'
+  libraryName: VALIDATION:WUGSC:H_SA-OC-AH-131-LP6005408-DNA_D02-lg1-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C6T7KACXX_2-TTAGGCGA-TTAGGCGA
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: aea37ddf593161721ab64ba509f91d79.bam
+    fileSize: 14393526220
+    readGroupIdInFile: '2895500075'
+    fileMd5sum: aea37ddf593161721ab64ba509f91d79
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/aea37ddf593161721ab64ba509f91d79.bam
+    referenceGenome: ''
+    fileType: BAM

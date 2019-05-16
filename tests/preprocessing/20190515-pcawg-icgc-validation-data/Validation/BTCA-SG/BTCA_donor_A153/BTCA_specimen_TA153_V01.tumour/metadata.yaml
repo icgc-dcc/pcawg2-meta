@@ -1,0 +1,106 @@
+study: BTCA-SG
+donorSubmitterId: BTCA_donor_A153
+specimenSubmitterId: BTCA_specimen_TA153
+sampleSubmitterId: BTCA_specimen_TA153_V01
+donorGender: male
+aliquotId: 9ae2716c-cbd3-5b14-b15e-cf88907fe8f1
+specimenType: Primary tumour - solid tissue
+libraryStrategy: Validation
+useCntl: 2c807e02-0c21-5811-babd-670bfa81e4d2
+readGroups:
+- readGroupId: '2895499586'
+  libraryName: VALIDATION:WUGSC:H_SA-A153-A153T-lg2-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C72CRACXX_5-CCACGCGT-CCACGCGT
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: 97ba92a79c6b56ed19d03bf47ea4cf3c.bam
+    fileSize: 17448498584
+    readGroupIdInFile: '2895499586'
+    fileMd5sum: 97ba92a79c6b56ed19d03bf47ea4cf3c
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/97ba92a79c6b56ed19d03bf47ea4cf3c.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895499686'
+  libraryName: VALIDATION:WUGSC:H_SA-A153-A153T-lg2-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C72CRACXX_4-CCACGCGT-CCACGCGT
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: 97ba92a79c6b56ed19d03bf47ea4cf3c.bam
+    fileSize: 17448498584
+    readGroupIdInFile: '2895499686'
+    fileMd5sum: 97ba92a79c6b56ed19d03bf47ea4cf3c
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/97ba92a79c6b56ed19d03bf47ea4cf3c.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895499695'
+  libraryName: VALIDATION:WUGSC:H_SA-A153-A153T-lg1-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C72CRACXX_6-TGAATGCA-TGAATGCA
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: 97ba92a79c6b56ed19d03bf47ea4cf3c.bam
+    fileSize: 17448498584
+    readGroupIdInFile: '2895499695'
+    fileMd5sum: 97ba92a79c6b56ed19d03bf47ea4cf3c
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/97ba92a79c6b56ed19d03bf47ea4cf3c.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895499699'
+  libraryName: VALIDATION:WUGSC:H_SA-A153-A153T-lg2-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C72CRACXX_6-CCACGCGT-CCACGCGT
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: 97ba92a79c6b56ed19d03bf47ea4cf3c.bam
+    fileSize: 17448498584
+    readGroupIdInFile: '2895499699'
+    fileMd5sum: 97ba92a79c6b56ed19d03bf47ea4cf3c
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/97ba92a79c6b56ed19d03bf47ea4cf3c.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895499711'
+  libraryName: VALIDATION:WUGSC:H_SA-A153-A153T-lg1-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C72CRACXX_4-TGAATGCA-TGAATGCA
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: 97ba92a79c6b56ed19d03bf47ea4cf3c.bam
+    fileSize: 17448498584
+    readGroupIdInFile: '2895499711'
+    fileMd5sum: 97ba92a79c6b56ed19d03bf47ea4cf3c
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/97ba92a79c6b56ed19d03bf47ea4cf3c.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895499725'
+  libraryName: VALIDATION:WUGSC:H_SA-A153-A153T-lg1-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C72CRACXX_5-TGAATGCA-TGAATGCA
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: 97ba92a79c6b56ed19d03bf47ea4cf3c.bam
+    fileSize: 17448498584
+    readGroupIdInFile: '2895499725'
+    fileMd5sum: 97ba92a79c6b56ed19d03bf47ea4cf3c
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/97ba92a79c6b56ed19d03bf47ea4cf3c.bam
+    referenceGenome: ''
+    fileType: BAM

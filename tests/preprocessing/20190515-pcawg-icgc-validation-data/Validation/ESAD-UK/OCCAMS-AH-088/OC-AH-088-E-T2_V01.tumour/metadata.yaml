@@ -1,0 +1,106 @@
+study: ESAD-UK
+donorSubmitterId: OCCAMS-AH-088
+specimenSubmitterId: OC-AH-088-E-T2
+sampleSubmitterId: OC-AH-088-E-T2_V01
+donorGender: male
+aliquotId: 3ebeb628-e120-56a8-a738-493c3d466415
+specimenType: Primary tumour - solid tissue
+libraryStrategy: Validation
+useCntl: bb789317-f82f-59a7-be42-07c2787d467a
+readGroups:
+- readGroupId: '2895499921'
+  libraryName: VALIDATION:WUGSC:H_SA-OC-AH-088-LP6007427-DNA_A01-lg2-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C6T7KACXX_3-TCTACCGT-TCTACCGT
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: 0e95960c5a4b9c5fd073fa2fb74bf791.bam
+    fileSize: 17538151770
+    readGroupIdInFile: '2895499921'
+    fileMd5sum: 0e95960c5a4b9c5fd073fa2fb74bf791
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/0e95960c5a4b9c5fd073fa2fb74bf791.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895499931'
+  libraryName: VALIDATION:WUGSC:H_SA-OC-AH-088-LP6007427-DNA_A01-lg2-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C6T7KACXX_1-TCTACCGT-TCTACCGT
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: 0e95960c5a4b9c5fd073fa2fb74bf791.bam
+    fileSize: 17538151770
+    readGroupIdInFile: '2895499931'
+    fileMd5sum: 0e95960c5a4b9c5fd073fa2fb74bf791
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/0e95960c5a4b9c5fd073fa2fb74bf791.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895499975'
+  libraryName: VALIDATION:WUGSC:H_SA-OC-AH-088-LP6007427-DNA_A01-lg1-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C6T7KACXX_3-ATGTCAGA-ATGTCAGA
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: 0e95960c5a4b9c5fd073fa2fb74bf791.bam
+    fileSize: 17538151770
+    readGroupIdInFile: '2895499975'
+    fileMd5sum: 0e95960c5a4b9c5fd073fa2fb74bf791
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/0e95960c5a4b9c5fd073fa2fb74bf791.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895499990'
+  libraryName: VALIDATION:WUGSC:H_SA-OC-AH-088-LP6007427-DNA_A01-lg1-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C6T7KACXX_1-ATGTCAGA-ATGTCAGA
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: 0e95960c5a4b9c5fd073fa2fb74bf791.bam
+    fileSize: 17538151770
+    readGroupIdInFile: '2895499990'
+    fileMd5sum: 0e95960c5a4b9c5fd073fa2fb74bf791
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/0e95960c5a4b9c5fd073fa2fb74bf791.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895500073'
+  libraryName: VALIDATION:WUGSC:H_SA-OC-AH-088-LP6007427-DNA_A01-lg2-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C6T7KACXX_2-TCTACCGT-TCTACCGT
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: 0e95960c5a4b9c5fd073fa2fb74bf791.bam
+    fileSize: 17538151770
+    readGroupIdInFile: '2895500073'
+    fileMd5sum: 0e95960c5a4b9c5fd073fa2fb74bf791
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/0e95960c5a4b9c5fd073fa2fb74bf791.bam
+    referenceGenome: ''
+    fileType: BAM
+- readGroupId: '2895500118'
+  libraryName: VALIDATION:WUGSC:H_SA-OC-AH-088-LP6007427-DNA_A01-lg1-lib1
+  sequencingPlatform: ILLUMINA
+  platformModel: Illumina HiSeq 2500
+  platformUnit: WUGSC:C6T7KACXX_2-ATGTCAGA-ATGTCAGA
+  insertSize: 0
+  sequencingCenter: WUGSC
+  sequencingDate: '2015-08-06T20:00:00-04:00'
+  files:
+  - fileName: 0e95960c5a4b9c5fd073fa2fb74bf791.bam
+    fileSize: 17538151770
+    readGroupIdInFile: '2895500118'
+    fileMd5sum: 0e95960c5a4b9c5fd073fa2fb74bf791
+    path: file:///home/ubuntu/pcawg-pilot50/icgc/reheadered/0e95960c5a4b9c5fd073fa2fb74bf791.bam
+    referenceGenome: ''
+    fileType: BAM
