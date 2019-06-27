@@ -1,0 +1,24 @@
+study: PACA-CA
+donorSubmitterId: PCSI_0056
+specimenSubmitterId: unknown
+sampleSubmitterId: CME_0007_Pa_C
+donorGender: female
+aliquotId: 6bd009d1-1e00-5bb6-894c-a5d7e287f33a
+specimenType: unknown
+libraryStrategy: WXS
+useCntl: ''
+readGroups:
+- readGroupId: 121023_SN1068_0102_AC1CEHACXX_2_NoIndex
+  libraryName: CME_0002_Pa_C_PE_392_EX
+  sequencingPlatform: Illumina
+  platformModel: ''
+  platformUnit: SN1068
+  insertSize: null
+  sequencingCenter: ''
+  sequencingDate: ''
+  files:
+  - fileMd5sum: 12e28e37827e646d32ae2eb547f0b6e0
+    fileType: bam
+    path: ''
+    readGroupIdInFile: 121023_SN1068_0102_AC1CEHACXX_2_NoIndex
+    referenceGenome: hg19
