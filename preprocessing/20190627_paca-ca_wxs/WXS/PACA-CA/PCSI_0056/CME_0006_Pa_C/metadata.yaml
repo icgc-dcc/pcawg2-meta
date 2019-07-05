@@ -1,10 +1,10 @@
 study: PACA-CA
 donorSubmitterId: PCSI_0056
-specimenSubmitterId: unknown
+specimenSubmitterId: 'CME_tumour'
 sampleSubmitterId: CME_0006_Pa_C
 donorGender: female
 aliquotId: 628f6542-a13d-5d89-bc45-1270ace61fe4
-specimenType: unknown
+specimenType: 'Xenograft - derived from tumour cell line'
 libraryStrategy: WXS
 useCntl: ''
 readGroups:
@@ -17,8 +17,10 @@ readGroups:
   sequencingCenter: ''
   sequencingDate: ''
   files:
-  - fileMd5sum: 6bf655eeb7795026165873d632492a51
-    fileType: bam
-    path: ''
+  - fileName: 'CME_0006_Pa_C_PE_394_EX_NoIndex_8_121023_SN1068_0102_AC1CEHACXX.bam'
+    fileSize: 39287512289
+    fileMd5sum: 6bf655eeb7795026165873d632492a51
+    fileType: BAM
+    path: 'file:////home/ubuntu/paca-ca_ega_data/bams/CME_0006_Pa_C_PE_394_EX_NoIndex_8_121023_SN1068_0102_AC1CEHACXX.bam'
     readGroupIdInFile: 121023_SN1068_0102_AC1CEHACXX_2_NoIndex
     referenceGenome: hg19

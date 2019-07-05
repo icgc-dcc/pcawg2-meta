@@ -1,10 +1,10 @@
 study: PACA-CA
 donorSubmitterId: PCSI_0056
-specimenSubmitterId: unknown
+specimenSubmitterId: 'CME_normal'
 sampleSubmitterId: CME_0008_Pa_C
 donorGender: female
 aliquotId: 7f0d89a8-ee0f-55c8-917a-5b7c5a39544a
-specimenType: unknown
+specimenType: 'Normal - blood derived'
 libraryStrategy: WXS
 useCntl: ''
 readGroups:
@@ -17,8 +17,10 @@ readGroups:
   sequencingCenter: ''
   sequencingDate: ''
   files:
-  - fileMd5sum: 4caa06da6a54c3c79723cb57c4e933e2
-    fileType: bam
-    path: ''
+  - fileName: 'CME_0008_St_R_PE_367_EX_NoIndex_2_121025_SN203_0165_BC1FCCACXX.bam'
+    fileSize: 36279777862
+    fileMd5sum: 4caa06da6a54c3c79723cb57c4e933e2
+    fileType: BAM
+    path: 'file:////home/ubuntu/paca-ca_ega_data/bams/CME_0008_St_R_PE_367_EX_NoIndex_2_121025_SN203_0165_BC1FCCACXX.bam'
     readGroupIdInFile: 121023_SN1068_0102_AC1CEHACXX_2_NoIndex
     referenceGenome: hg19
