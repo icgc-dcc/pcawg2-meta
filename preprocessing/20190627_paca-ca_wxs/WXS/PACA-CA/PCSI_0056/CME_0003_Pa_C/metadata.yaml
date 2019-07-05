@@ -6,7 +6,7 @@ donorGender: female
 aliquotId: ce03e725-03d7-5c3e-9a06-328ddca9808c
 specimenType: 'Xenograft - derived from tumour cell line'
 libraryStrategy: WXS
-useCntl: ''
+useCntl: '7f0d89a8-ee0f-55c8-917a-5b7c5a39544a'
 readGroups:
 - readGroupId: 121023_SN1068_0102_AC1CEHACXX_2_NoIndex
   libraryName: CME_0002_Pa_C_PE_392_EX
