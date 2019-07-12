@@ -1,0 +1,26 @@
+study: PACA-CA
+donorSubmitterId: PCSI_0056
+specimenSubmitterId: 5T_95N
+sampleSubmitterId: 5T_95N
+donorGender: female
+aliquotId: d3b57d7d-658d-5f4d-9e59-1e3f2dafecb4
+specimenType: Xenograft - derived from tumour cell line
+libraryStrategy: WXS
+useCntl: c0873aaf-b167-58e7-a576-1c30d75a7dc2
+readGroups:
+- readGroupId: 121025_SN203_0165_BC1FCCACXX_1_NoIndex
+  libraryName: CME_0007_Pa_C_PE_389_EX
+  sequencingPlatform: Illumina
+  platformModel: ''
+  platformUnit: SN203
+  insertSize: null
+  sequencingCenter: ''
+  sequencingDate: ''
+  files:
+  - fileMd5sum: 12e28e37827e646d32ae2eb547f0b6e0
+    fileName: CME_0007_Pa_C_PE_389_EX_NoIndex_1_121025_SN203_0165_BC1FCCACXX.bam
+    fileSize: '35237396956'
+    fileType: BAM
+    path: file:////home/ubuntu/paca-ca_ega_data/bams/CME_0007_Pa_C_PE_389_EX_NoIndex_1_121025_SN203_0165_BC1FCCACXX.bam
+    readGroupIdInFile: 121025_SN203_0165_BC1FCCACXX_1_NoIndex
+    referenceGenome: GRCh37

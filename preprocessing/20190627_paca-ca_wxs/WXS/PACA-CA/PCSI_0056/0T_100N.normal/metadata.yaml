@@ -1,0 +1,26 @@
+study: PACA-CA
+donorSubmitterId: PCSI_0056
+specimenSubmitterId: 0T_100N
+sampleSubmitterId: 0T_100N
+donorGender: female
+aliquotId: c0873aaf-b167-58e7-a576-1c30d75a7dc2
+specimenType: Normal - blood derived
+libraryStrategy: WXS
+useCntl: N/A
+readGroups:
+- readGroupId: 121025_SN203_0165_BC1FCCACXX_2_NoIndex
+  libraryName: CME_0008_St_R_PE_367_EX
+  sequencingPlatform: Illumina
+  platformModel: ''
+  platformUnit: SN203
+  insertSize: null
+  sequencingCenter: ''
+  sequencingDate: ''
+  files:
+  - fileMd5sum: 4caa06da6a54c3c79723cb57c4e933e2
+    fileName: CME_0008_St_R_PE_367_EX_NoIndex_2_121025_SN203_0165_BC1FCCACXX.bam
+    fileSize: '36279777862'
+    fileType: BAM
+    path: file:////home/ubuntu/paca-ca_ega_data/bams/CME_0008_St_R_PE_367_EX_NoIndex_2_121025_SN203_0165_BC1FCCACXX.bam
+    readGroupIdInFile: 121025_SN203_0165_BC1FCCACXX_2_NoIndex
+    referenceGenome: GRCh37
